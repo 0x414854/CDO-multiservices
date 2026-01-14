@@ -1,0 +1,1 @@
+- Ajouter titre gallery avec traduction

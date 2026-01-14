@@ -1,0 +1,261 @@
+.heroContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: start;
+  padding: 20px;
+  gap: 30px;
+  background-image: url(../../public//images/hero.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.span {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 10px;
+  background: rgba(255, 255, 255, 0.25);
+  border-radius: 20px;
+  gap: 10px;
+  color: var(--white);
+  margin: 30px 0 0;
+  font-size: var(--fs-1);
+}
+.title {
+  font-size: var(--fs-26);
+  color: var(--white);
+  font-weight: 600;
+}
+.subtitle {
+  font-size: var(--fs-14);
+  color: var(--white);
+}
+.buttons {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: start;
+  gap: 20px;
+}
+.buttons a {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 30px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  background: var(--white);
+  gap: 10px;
+  transition: all 0.3s ease-in-out;
+}
+.buttons a button {
+  border: none;
+  background: none;
+  color: var(--cta-color);
+  font-size: var(--fs-1);
+}
+.buttons a:hover img {
+  transform: translateX(5px);
+  transition: all 0.3s ease-in-out;
+}
+.highlights {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+  list-style: none;
+}
+.highlight {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+  gap: 5px;
+  font-size: var(--fs-1);
+  margin: 0 auto;
+  padding: 20px;
+}
+.highlight span {
+  font-size: var(--fs-18);
+  font-weight: bold;
+}
+.highlight p {
+  text-align: center;
+}
+
+/* ---------- Scroll Down Container ---------- */
+.scrollDown {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  cursor: pointer;
+  z-index: 10;
+  margin: 0 auto;
+}
+
+/* ---------- Mouse-like shape ---------- */
+.mouse {
+  width: 24px;
+  height: 40px;
+  border: 2px solid white;
+  border-radius: 14px;
+  position: relative;
+  display: block;
+}
+
+.mouse::after {
+  content: "";
+  position: absolute;
+  top: 8px;
+  left: 50%;
+  width: 4px;
+  height: 8px;
+  background: white;
+  border-radius: 2px;
+  transform: translateX(-50%);
+  opacity: 1;
+  animation: scrollDot 1.8s infinite;
+}
+
+/* ---------- Dot scroll animation ---------- */
+@keyframes scrollDot {
+  0% {
+    opacity: 0;
+    transform: translateX(-50%) translateY(0);
+  }
+  30% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translateX(-50%) translateY(12px);
+  }
+}
+
+/* ---------- Responsive ---------- */
+@media (min-width: 590px) {
+  .buttons {
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .mouse {
+    width: 20px;
+    height: 34px;
+  }
+}
+@media (min-width: 768px) {
+  .heroContainer {
+    padding: 2rem 4rem;
+    gap: 2rem;
+    align-items: start;
+    height: 80vh;
+    justify-content: center;
+  }
+  .span {
+    font-size: var(--fs-11);
+  }
+  .title {
+    width: 90%;
+    font-size: var(--fs-3);
+  }
+  .subtitle {
+    width: 80%;
+    font-size: var(--fs-18);
+  }
+  .buttons {
+    gap: 2rem;
+  }
+  .buttons a button {
+    font-size: var(--fs-11);
+  }
+  .highlights {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  .highlight {
+    width: 48%;
+    font-size: var(--fs-11);
+  }
+  .highlight span {
+    font-size: var(--fs-22);
+  }
+}
+@media (min-width: 912px) {
+  .heroContainer {
+    height: 60vh;
+  }
+  .buttons {
+    justify-content: flex-start;
+  }
+  .highlight {
+    width: 30%;
+  }
+}
+@media (min-width: 1024px) {
+  .heroContainer {
+    height: 60vh;
+  }
+  .span {
+    font-size: var(--fs-12);
+  }
+  .title {
+    width: 90%;
+    font-size: var(--fs-34);
+  }
+  .subtitle {
+    width: 80%;
+    font-size: var(--fs-22);
+  }
+  .buttons {
+    gap: 2rem;
+  }
+  .buttons a button {
+    font-size: var(--fs-12);
+  }
+  .highlights {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  .highlight {
+    font-size: var(--fs-12);
+  }
+  .highlight span {
+    font-size: var(--fs-26);
+  }
+}
+@media (min-width: 1280px) {
+  .heroContainer {
+    height: 92vh;
+  }
+  .span {
+    font-size: var(--fs-13);
+  }
+  .title {
+    width: 60%;
+  }
+  .subtitle {
+    width: 60%;
+  }
+  .buttons a button {
+    font-size: var(--fs-13);
+  }
+  .highlight {
+    font-size: var(--fs-13);
+  }
+}
+@media (min-width: 1440px) {
+  .scrollDown {
+    margin-top: 5rem;
+  }
+}

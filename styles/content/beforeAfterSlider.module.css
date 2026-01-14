@@ -1,0 +1,63 @@
+.beforeAfterContainer {
+  position: relative;
+  width: 100%;
+  height: 200px; /* mobile first */
+  overflow: hidden;
+  border-radius: 8px;
+  user-select: none;
+  cursor: ew-resize;
+}
+
+.beforeAfterContainer img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  object-position: left;
+}
+
+.afterWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.slider {
+  position: absolute;
+  top: 0;
+  width: 3px;
+  height: 100%;
+  background: white;
+  transform: translateX(-50%);
+  z-index: 10;
+  pointer-events: none;
+}
+
+/* Tablet / Desktop */
+@media (min-width: 480px) {
+  .beforeAfterContainer {
+    height: 300px;
+  }
+}
+
+@media (min-width: 768px) {
+  .beforeAfterContainer {
+    height: 400px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .beforeAfterContainer {
+    width: 60%;
+    /* height: 500px; */
+  }
+}
+@media (min-width: 1280px) {
+  .beforeAfterContainer {
+    width: 90%;
+    /* height: 500px; */
+  }
+}

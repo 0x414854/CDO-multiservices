@@ -1,0 +1,144 @@
+.servicesContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 4rem 0 4rem 0;
+}
+.title {
+  font-size: var(--fs-2);
+  margin: 0 auto;
+}
+.subtitle {
+  font-size: var(--fs-12);
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  color: var(--cta-color);
+}
+.servicesList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  list-style: none;
+  width: 90%;
+  margin: 0 auto 1rem auto;
+  text-align: center;
+}
+.serviceItem {
+  display: flex;
+  width: 100%;
+  background: white;
+  padding: 20px;
+  /* border: none; */
+  border-radius: 20px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--cta-color);
+  height: 150px;
+  transition: all 0.2s ease-in;
+}
+.serviceItem:hover,
+.serviceItem:focus {
+  transform: translateY(-10px);
+  transition: all 0.2s ease-in;
+}
+.serviceCard {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.serviceCard h3 {
+  font-size: var(--fs-14);
+}
+.serviceCard p {
+  font-size: var(--fs-1);
+}
+
+.button {
+  display: inline-flex;
+  gap: 5px;
+  padding: 15px;
+  background: var(--cta-color);
+  border: none;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.4s ease;
+}
+.button button {
+  background: transparent;
+  border: none;
+  font-size: var(--fs-1);
+  color: var(--white);
+}
+.button:hover img {
+  transform: translateX(5px);
+  transition: all 0.4s ease;
+}
+
+@media (min-width: 590px) {
+  .servicesList {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .serviceItem {
+    width: 48%;
+  }
+}
+
+@media (min-width: 768px) {
+  .title {
+    font-size: var(--fs-24);
+  }
+  .subtitle {
+    font-size: var(--fs-14);
+  }
+  .serviceItem {
+    display: flex;
+    min-height: 151px;
+    align-items: center;
+    justify-content: center;
+  }
+  .serviceCard h3 {
+    font-size: var(--fs-16);
+  }
+  .serviceCard p {
+    font-size: var(--fs-11);
+  }
+  .button button {
+    font-size: var(--fs-11);
+  }
+}
+@media (min-width: 1024px) {
+  .title {
+    font-size: var(--fs-28);
+  }
+  .subtitle {
+    font-size: var(--fs-16);
+  }
+  .serviceItem {
+    width: 31%;
+    min-height: 220px;
+  }
+  .serviceCard h3 {
+    font-size: var(--fs-18);
+  }
+  .serviceCard p {
+    font-size: var(--fs-12);
+  }
+  .button button {
+    font-size: var(--fs-12);
+  }
+}
+@media (min-width: 1280px) {
+  .serviceCard p {
+    font-size: var(--fs-13);
+  }
+  .button button {
+    font-size: var(--fs-13);
+  }
+}

@@ -1,0 +1,749 @@
+{
+  "Navbar": {
+    "services": "Serviços",
+    "gallery": "Galeria",
+    "reviews": "Avaliações",
+    "about": "Sobre Nós",
+    "contact": "contacto"
+  },
+  "Hero": {
+    "span": "Limpeza profissional",
+    "h1": "Limpeza Profissional na Suíça",
+    "h2": "CDO Multiservices: seu parceiro de confiança para um ambiente impecável",
+    "button_1": "Solicitar um orçamento",
+    "button_2": "Nossos Serviços",
+    "highlight_1": "Clientes satisfeitos",
+    "highlight_2": "Anos de experiência",
+    "highlight_3": "Satisfação garantida"
+  },
+  "Services": {
+    "title": "Nossos Serviços",
+    "subtitle": "Soluções de limpeza adaptadas a todas as suas necessidades",
+    "button": "Ver todos os nossos serviços",
+
+    "items": {
+      "general": {
+        "title": "Limpeza geral",
+        "description": "Manutenção completa dos seus espaços, adaptada às suas necessidades."
+      },
+      "windows": {
+        "title": "Limpeza de vidros",
+        "description": "Vidros impecáveis para residências e empresas."
+      },
+      "offices": {
+        "title": "Limpeza de escritórios",
+        "description": "Escritórios limpos para um ambiente de trabalho saudável."
+      },
+      "concierge": {
+        "title": "Serviço de concierge",
+        "description": "Manutenção regular e completa dos seus edifícios."
+      },
+      "maid": {
+        "title": "Serviço de empregada doméstica",
+        "description": "Serviços confiáveis para a limpeza diária da sua casa."
+      },
+      "spring": {
+        "title": "Limpeza de primavera",
+        "description": "Limpeza profunda para renovar seu ambiente."
+      },
+      "renovation": {
+        "title": "Limpeza pós-construção",
+        "description": "Remoção completa de resíduos após obras."
+      },
+      "lease": {
+        "title": "Limpeza de final de contrato",
+        "description": "Entrega impecável para o estado do imóvel."
+      }
+    }
+  },
+  "WhyUs": {
+    "h2": "Por que escolher a CDO Multiservices?",
+    "items": {
+      "quality": {
+        "title": "Qualidade garantida",
+        "description": "Equipamentos profissionais e produtos ecológicos"
+      },
+      "experience": {
+        "title": "Experiência comprovada",
+        "description": "Anos de experiência na Suíça"
+      },
+      "certified": {
+        "title": "Certificado",
+        "description": "Seguros e certificações em ordem"
+      },
+      "available": {
+        "title": "Disponível",
+        "description": "Serviço rápido e flexível"
+      }
+    }
+  },
+  "Reviews": {
+    "title": "Avaliações de Clientes",
+    "subtitle": "O que nossos clientes dizem sobre nós",
+    "button": "Ver todas as avaliações"
+  },
+  "Footer": {
+    "description": "CDO Multiservices - Especialista em limpeza profissional na Suíça",
+    "fr": "Francês",
+    "en": "Inglês",
+    "pt": "Português",
+    "h3_1": "Links rápidos",
+    "services": "Serviços",
+    "gallery": "Galeria",
+    "reviews": "Avaliações",
+    "about": "Sobre Nós",
+    "contact": "contacto",
+    "h3_2": "Legal",
+    "legalNotice": "Aviso Legal",
+    "privacyPolicy": "Política de Privacidade",
+    "h3_3": "contacto",
+    "days": "Seg-Sáb: 8h-19h",
+    "copyright": "© 2025 CDO Multiservices. Todos os direitos reservados",
+    "p": "Feito com carinho por"
+  },
+  "ServicesPage": {
+    "title": "Nossos Serviços",
+    "subtitle": "Soluções de limpeza adaptadas a todas as suas necessidades",
+
+    "generalCleaningTitle": "Limpeza geral",
+    "generalCleaningDesc": "Manutenção completa e regular para garantir espaços limpos, saudáveis e agradáveis no dia a dia.",
+
+    "windowCleaningTitle": "Limpeza de vidros",
+    "windowCleaningDesc": "Vidros impecáveis, sem manchas ou resíduos, permitindo a entrada total de luz natural.",
+
+    "officeCleaningTitle": "Limpeza de escritórios",
+    "officeCleaningDesc": "Um ambiente de trabalho limpo e organizado para melhorar o conforto e a produtividade.",
+
+    "conciergeServiceTitle": "Limpeza de condominios",
+    "conciergeServiceDesc": "Assistência versátil para gestão de seus espaços: pequenas tarefas, manutenção leve e suporte diário.",
+
+    "housekeeperTitle": "Serviço de empregada doméstica",
+    "housekeeperDesc": "Manutenção profissional da sua residência com cuidado, discrição e eficiência.",
+
+    "springCleaningTitle": "Limpeza de primavera",
+    "springCleaningDesc": "Limpeza profunda para renovar totalmente sua casa ou empresa após o inverno.",
+
+    "constructionCleaningTitle": "Limpeza pós-construção",
+    "constructionCleaningDesc": "Remoção de poeira, resíduos e detritos para deixar seu espaço impecável após obras.",
+
+    "endOfLeaseCleaningTitle": "Limpeza de final de contrato",
+    "endOfLeaseCleaningDesc": "Limpeza completa para facilitar a inspeção do imóvel e a recuperação do seu depósito."
+  },
+  "GeneralCleaningPage": {
+    "badge": "Serviço profissional",
+    "title": "Limpeza geral",
+    "subtitle": "Um ambiente limpo, saudável e impecável para sua casa ou empresa.",
+    "primaryCta": "Solicitar um orçamento",
+    "secondaryCta": "Ver nossos serviços",
+    "imageAlt": "Serviço profissional de limpeza geral",
+
+    "intro": {
+      "title": "Limpeza completa e cuidadosa",
+      "text": "Nosso serviço de limpeza geral é projetado para manter seus espaços limpos, organizados e agradáveis diariamente. Seja para uma residência, apartamento ou espaço profissional, nossas equipes garantem um trabalho minucioso e confiável."
+    },
+
+    "services": {
+      "title": "O que nosso serviço inclui",
+      "items": {
+        "surfaces": "Limpeza e desinfecção de todas as superfícies",
+        "livingAreas": "Manutenção das áreas de estar, quartos e escritórios",
+        "kitchen": "Limpeza completa da cozinha",
+        "bathroom": "Limpeza completa dos banheiros e sanitários",
+        "windows": "Limpeza interna de vidros e espelhos acessíveis",
+        "furniture": "Limpeza do mobiliário acessível",
+        "details": "Limpeza de detalhes e acabamentos",
+        "trash": "Gestão e remoção de resíduos",
+        "floors": "Aspiração e lavagem de todos os pisos",
+        "airing": "Aeração dos ambientes após a intervenção"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Expertise profissional",
+        "text": "Profissionais treinados, experientes e atentos a cada detalhe."
+      },
+      "flexibility": {
+        "title": "Flexibilidade total",
+        "text": "Intervenções pontuais ou regulares de acordo com suas necessidades."
+      },
+      "eco": {
+        "title": "Produtos responsáveis",
+        "text": "Uso de produtos eficazes e respeitosos com o meio ambiente."
+      }
+    },
+
+    "final": {
+      "title": "Precisa de uma limpeza impecável?",
+      "text": "Entre em contacto hoje mesmo para um orçamento rápido e personalizado.",
+      "button": "Contate-nos"
+    }
+  },
+  "OfficeCleaningPage": {
+    "title": "Limpeza de Escritórios",
+    "subtitle": "Espaços de trabalho limpos, saudáveis e profissionais para o bem-estar da sua equipe.",
+    "primaryCta": "Solicitar um orçamento",
+    "secondaryCta": "Ver nossos serviços",
+    "imageAlt": "Serviço profissional de limpeza de escritórios",
+
+    "intro": {
+      "title": "Um ambiente de trabalho impecável",
+      "text": "Oferecemos um serviço de limpeza de escritórios adaptado a empresas de todos os tamanhos. Nossas equipes realizam a manutenção de forma rigorosa e discreta, garantindo um ambiente limpo, saudável e agradável diariamente."
+    },
+
+    "services": {
+      "title": "O que nosso serviço inclui",
+      "items": {
+        "surfaces": "Limpeza e desinfecção de todas as superfícies",
+        "workspaces": "Manutenção de escritórios, espaços abertos e salas de reunião",
+        "kitchen": "Limpeza completa das cozinhas e áreas de pausa",
+        "bathroom": "Limpeza completa dos sanitários",
+        "furniture": "Limpeza do mobiliário e equipamentos acessíveis",
+        "details": "Limpeza de detalhes e acabamentos",
+        "trash": "Gestão e remoção de resíduos",
+        "floors": "Aspiração e lavagem de todos os pisos",
+        "airing": "Aeração dos espaços após intervenção"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Profissionalismo",
+        "text": "Equipes treinadas para atender às exigências de ambientes profissionais."
+      },
+      "flexibility": {
+        "title": "Horários flexíveis",
+        "text": "Intervenções adaptadas às suas necessidades: cedo, durante o dia ou à noite."
+      },
+      "confidentiality": {
+        "title": "Discrição e confidencialidade",
+        "text": "Respeito total pelos seus espaços, documentos e equipamentos profissionais."
+      }
+    },
+
+    "final": {
+      "title": "Escritório limpo, imagem profissional",
+      "text": "Entre em contacto para um orçamento personalizado e um serviço de limpeza adequado à sua empresa.",
+      "button": "Contate-nos"
+    }
+  },
+  "ConstructionCleaningPage": {
+    "title": "Limpeza Pós-Obra",
+    "subtitle": "Limpeza profunda após obras para espaços prontos para uso ou entrega.",
+    "primaryCta": "Solicitar um orçamento",
+    "secondaryCta": "Ver nossos serviços",
+    "imageAlt": "Serviço profissional de limpeza pós-obra",
+
+    "intro": {
+      "title": "Limpeza profissional após obras",
+      "text": "Nosso serviço de limpeza pós-obra remove de forma eficaz poeira, resíduos e marcas deixadas após construções ou reformas. Preparamos seus espaços para entrega das chaves ou ocupação imediata."
+    },
+
+    "services": {
+      "title": "O que nosso serviço inclui",
+      "items": {
+        "debris": "Remoção de resíduos, poeira e entulhos de obra",
+        "surfaces": "Limpeza e desengorduramento de todas as superfícies",
+        "rooms": "Limpeza completa de todos os ambientes",
+        "windows": "Limpeza de vidros, molduras e superfícies envidraçadas",
+        "details": "Limpeza de detalhes e acabamentos",
+        "trash": "Gestão e remoção de resíduos",
+        "floors": "Aspiração e lavagem profunda de todos os pisos",
+        "airing": "Aeração completa dos espaços após intervenção"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Expertise em obras",
+        "text": "Equipes treinadas nas exigências específicas de limpezas pós-obra."
+      },
+      "equipment": {
+        "title": "Equipamento profissional",
+        "text": "Uso de equipamentos e produtos adequados aos resíduos de obra."
+      },
+      "deadlines": {
+        "title": "Cumprimento de prazos",
+        "text": "Intervenções rápidas para entrega ou uso sem atrasos."
+      }
+    },
+
+    "final": {
+      "title": "Espaços prontos para uso",
+      "text": "Confie a limpeza pós-obra a nós para um resultado impecável e profissional.",
+      "button": "Contate-nos"
+    }
+  },
+  "EndOfLeaseCleaningPage": {
+    "title": "Limpeza de Final de Contrato",
+    "subtitle": "Limpeza completa e minuciosa para devolver seu imóvel em perfeito estado.",
+    "primaryCta": "Solicitar um orçamento",
+    "secondaryCta": "Ver nossos serviços",
+    "imageAlt": "Serviço profissional de limpeza de final de contrato",
+
+    "intro": {
+      "title": "Limpeza conforme exigências de devolução",
+      "text": "A limpeza de final de contrato é essencial durante a mudança. Realizamos uma limpeza completa do imóvel para atender às exigências de proprietários e imobiliárias."
+    },
+
+    "services": {
+      "title": "O que nosso serviço inclui",
+      "items": {
+        "surfaces": "Limpeza e desinfecção de todas as superfícies",
+        "rooms": "Limpeza completa de todos os ambientes",
+        "kitchen": "Limpeza completa da cozinha",
+        "bathroom": "Limpeza completa dos banheiros e sanitários",
+        "windows": "Limpeza interna de vidros e espelhos",
+        "furniture": "Limpeza de mobiliário e equipamentos acessíveis",
+        "details": "Limpeza de detalhes e acabamentos",
+        "trash": "Gestão e remoção de resíduos",
+        "floors": "Aspiração e lavagem profunda de todos os pisos",
+        "airing": "Aeração dos ambientes após intervenção"
+      }
+    },
+
+    "values": {
+      "guarantee": {
+        "title": "Resultado garantido",
+        "text": "Limpeza realizada conforme os padrões exigidos na entrega do imóvel."
+      },
+      "thorough": {
+        "title": "Limpeza profunda",
+        "text": "Cada espaço é tratado com cuidado para um resultado impecável."
+      },
+      "flexibility": {
+        "title": "Flexibilidade e rapidez",
+        "text": "Intervenção ágil, adaptada ao seu prazo de saída."
+      }
+    },
+
+    "final": {
+      "title": "Deixe seu imóvel com tranquilidade",
+      "text": "Confie a limpeza de final de contrato a nós para uma devolução sem preocupações.",
+      "button": "Contate-nos"
+    }
+  },
+  "WindowCleaningPage": {
+    "title": "Limpeza de Vidros",
+    "subtitle": "Vidros impecáveis, tanto para sua residência quanto para seus espaços comerciais.",
+    "primaryCta": "Solicitar um orçamento",
+    "secondaryCta": "Ver nossos serviços",
+    "imageAlt": "Serviço profissional de limpeza de vidros",
+
+    "intro": {
+      "title": "Limpeza de vidros profissional e completa",
+      "text": "Oferecemos limpeza de vidros adaptada a todos os tipos de edifícios: casas, apartamentos e espaços comerciais. Nossas equipes utilizam técnicas e produtos altamente eficazes para um resultado sem manchas."
+    },
+
+    "services": {
+      "title": "O que nosso serviço inclui",
+      "items": {
+        "internal": "Limpeza interna dos vidros",
+        "external": "Limpeza externa dos vidros (acessível com segurança)",
+        "frames": "Limpeza de molduras e bordas",
+        "sills": "Limpeza de parapeitos e suportes",
+        "accessories": "Limpeza de poeira em cortinas e acessórios próximos",
+        "commercialExtra": "Para espaços comerciais: vidros em grandes alturas e vitrines acessíveis por plataforma elevatória ou escada profissional"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Experiência",
+        "text": "Técnicos treinados nas técnicas de limpeza de vidros e trabalho em altura, se necessário."
+      },
+      "safety": {
+        "title": "Segurança",
+        "text": "Estrito cumprimento das normas de segurança para trabalhos em altura."
+      },
+      "eco": {
+        "title": "Produtos ecológicos",
+        "text": "Uso de produtos respeitosos com o meio ambiente e que não deixam marcas."
+      }
+    },
+
+    "final": {
+      "title": "Vidros brilhantes com total segurança",
+      "text": "Confie seus vidros a nós para um resultado impecável, seja em sua casa ou em seus espaços comerciais.",
+      "button": "Contate-nos"
+    }
+  },
+  "SpringCleaningPage": {
+    "title": "Limpeza de Primavera",
+    "subtitle": "Uma limpeza completa para refrescar sua casa ou apartamento e receber a nova estação.",
+    "primaryCta": "Solicitar um orçamento",
+    "secondaryCta": "Ver nossos serviços",
+    "imageAlt": "Serviço de limpeza de primavera",
+
+    "intro": {
+      "title": "Devolva brilho e frescor ao seu interior",
+      "text": "A limpeza de primavera é a oportunidade de limpar profundamente todos os ambientes, remover poeira acumulada e preparar sua casa para a nova estação. Intervenimos com cuidado e eficácia para um resultado impecável."
+    },
+
+    "services": {
+      "title": "O que nosso serviço inclui",
+      "items": {
+        "surfaces": "Limpeza e desinfecção de todas as superfícies",
+        "rooms": "Manutenção completa das salas e quartos",
+        "kitchen": "Limpeza completa da cozinha",
+        "bathroom": "Limpeza completa dos banheiros e sanitários",
+        "windows": "Limpeza interna de vidros e espelhos acessíveis",
+        "furniture": "Limpeza e remoção de poeira do mobiliário",
+        "details": "Limpeza de detalhes e acabamentos",
+        "trash": "Gestão e remoção de resíduos",
+        "floors": "Aspiração e lavagem profunda dos pisos",
+        "airing": "Aeração completa dos ambientes"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Cuidado e precisão",
+        "text": "Equipes qualificadas que cuidam de cada espaço e detalhe."
+      },
+      "flexibility": {
+        "title": "Intervenções flexíveis",
+        "text": "Adaptamo-nos à sua agenda para atuar no momento mais conveniente."
+      },
+      "eco": {
+        "title": "Produtos ecológicos",
+        "text": "Uso de produtos respeitosos com o meio ambiente para uma limpeza segura e eficaz."
+      }
+    },
+
+    "final": {
+      "title": "Dê um novo brilho à sua casa",
+      "text": "Entre em contacto para uma limpeza de primavera completa e um interior renovado.",
+      "button": "Contate-nos"
+    }
+  },
+  "ConciergeServicePage": {
+    "title": "Limpeza de condominios",
+    "subtitle": "Serviços personalizados para sua casa ou seus espaços comerciais, conforme suas necessidades.",
+    "primaryCta": "Solicitar um orçamento",
+    "secondaryCta": "Ver nossos serviços",
+    "imageAlt": "Serviço profissional de concierge",
+
+    "intro": {
+      "title": "Um serviço completo e sob medida",
+      "text": "Nosso serviço de concierge permite delegar a limpeza, compras, organização e outras tarefas do dia a dia. Atuamos com cuidado e discrição para facilitar sua vida."
+    },
+
+    "services": {
+      "title": "O que nosso serviço inclui",
+      "items": {
+        "cleaning": "Limpeza e manutenção regular dos espaços",
+        "errands": "Compras e pequenas tarefas",
+        "organizing": "Organização e gestão dos espaços",
+        "laundry": "Passar roupa e gestão de lavanderia",
+        "furniture": "Manutenção de mobiliário e superfícies acessíveis",
+        "details": "Acabamentos e controle de qualidade",
+        "trash": "Gestão e remoção de resíduos",
+        "airing": "Aeração dos ambientes após a intervenção"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Profissionalismo",
+        "text": "Concierges treinados e experientes para atender às suas necessidades."
+      },
+      "flexibility": {
+        "title": "Flexibilidade",
+        "text": "Intervenções adaptadas aos seus horários e exigências."
+      },
+      "discretion": {
+        "title": "Discrição",
+        "text": "Total respeito pela sua intimidade e bens."
+      }
+    },
+
+    "final": {
+      "title": "Simplifique seu dia a dia",
+      "text": "Entre em contacto para um limpeza de condominios sob medida e aproveite um ambiente impecável sem esforço.",
+      "button": "Contate-nos"
+    }
+  },
+  "HousekeeperPage": {
+    "title": "Serviço de Faxina",
+    "subtitle": "Serviço de limpeza regular e personalizado para seu lar.",
+    "primaryCta": "Solicitar um orçamento",
+    "secondaryCta": "Ver nossos serviços",
+    "imageAlt": "Serviço profissional de faxina",
+
+    "intro": {
+      "title": "Um interior sempre impecável",
+      "text": "Nossos serviços de faxina mantêm sua casa ou apartamento limpos e organizados regularmente. Nossos profissionais garantem uma limpeza rigorosa respeitando seu espaço."
+    },
+
+    "services": {
+      "title": "O que nosso serviço inclui",
+      "items": {
+        "surfaces": "Limpeza e desinfecção de todas as superfícies",
+        "rooms": "Limpeza completa de salas e quartos",
+        "kitchen": "Limpeza completa da cozinha",
+        "bathroom": "Limpeza completa de banheiros e sanitários",
+        "furniture": "Limpeza e remoção de poeira do mobiliário",
+        "details": "Acabamentos e controle de qualidade",
+        "trash": "Gestão e remoção de resíduos",
+        "floors": "Aspiração e lavagem dos pisos",
+        "airing": "Aeração completa dos ambientes"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Profissionalismo",
+        "text": "Profissionais qualificados e treinados nos padrões de limpeza residencial."
+      },
+      "trust": {
+        "title": "Confiança",
+        "text": "Atuação confiável e respeitosa com sua intimidade e bens."
+      },
+      "flexibility": {
+        "title": "Flexibilidade",
+        "text": "Intervenções adaptadas à sua agenda e necessidades."
+      }
+    },
+
+    "final": {
+      "title": "Um lar limpo sem esforço",
+      "text": "Entre em contacto para um serviço de faxina regular ou pontual, adaptado à sua residência.",
+      "button": "Contate-nos"
+    }
+  },
+  "ContactPage": {
+    "title": "Contate-nos",
+    "subtitle": "Solicite seu orçamento gratuito",
+    "altPhoneIcon": "Ícone de telefone - CDO Multiservices Suíça",
+    "phoneTitle": "Telefone",
+    "altMailIcon": "Ícone de e-mail - CDO Multiservices Suíça",
+    "mailTitle": "Email",
+    "altMapIcon": "Ícone de mapa - CDO Multiservices Suíça",
+    "addressTitle": "Endereço",
+    "upload": "Escolher arquivo (máx. 5MB)",
+    "firstName": "Nome*",
+    "lastName": "Sobrenome*",
+    "email": "Email*",
+    "phone": "Telefone*",
+    "corporation": "Empresa (opcional)",
+    "service": "Serviço solicitado*",
+    "selectService": "Selecione um serviço",
+    "servicesList": {
+      "general": "Limpeza geral",
+      "windows": "Limpeza de vidros",
+      "office": "Limpeza de escritórios",
+      "concierge": "Limpeza de condominio",
+      "maid": "Serviço de faxina",
+      "spring": "Limpeza de primavera",
+      "construction": "Limpeza pós-obra",
+      "endOfLease": "Limpeza de fim de contrato"
+    },
+    "message": "Sua mensagem*",
+    "legalCheck": "Aceito que meus dados sejam usados para me contactar*",
+    "send": "Enviar mensagem",
+    "errorFirstName": "Por favor, insira seu nome.",
+    "errorLastName": "Por favor, insira seu sobrenome.",
+    "errorEmail": "Por favor, insira um e-mail válido.",
+    "errorPhone": "Por favor, insira seu número de telefone.",
+    "errorService": "Por favor, selecione um serviço.",
+    "errorMessage": "Por favor, insira uma mensagem.",
+    "errorConsent": "Você deve aceitar os termos."
+  },
+  "GalleryPage": {
+    "title": "Galeria Antes / Depois",
+    "subtitle": "Descubra a qualidade do nosso trabalho",
+    "title_image_1": "Limpeza de armário de arrumação",
+    "title_image_2": "Limpeza de cozinha",
+    "title_image_3": "Limpeza de forno",
+    "title_image_4": "Limpeza de armário de arrumação"
+  },
+  "AboutPage": {
+    "title": "Sobre a CDO Multiservices",
+    "subtitle": "Seu parceiro de confiança para um ambiente impecável desde 2008",
+    "history_title": "Nossa história",
+    "history_1": "Fundada em 2025, a CDO Multiservices nasceu da paixão por fornecer serviços de limpeza excepcionais em toda a Suíça. Nossa equipe dedicada compromete-se a manter os mais altos padrões de limpeza e profissionalismo.",
+    "history_2": "Ao longo dos anos, desenvolvemos uma experiência aprofundada em limpeza residencial, comercial e industrial, mantendo sempre nossos valores fundamentais: qualidade, confiabilidade e satisfação do cliente.",
+    "history_3": "Hoje, temos orgulho de atender mais de 500 clientes satisfeitos em toda a Suíça, com uma equipe de profissionais qualificados e equipamentos de ponta.",
+    "value_title": "Nossos valores",
+    "value_1": "Excelência",
+    "value_desc_1": "Buscamos a excelência em cada projeto, utilizando as melhores práticas e equipamentos.",
+    "value_2": "Equipe Qualificada",
+    "value_desc_2": "Nossa equipe é treinada nas mais recentes técnicas de limpeza e padrões de segurança.",
+    "value_3": "Compromisso Ecológico",
+    "value_desc_3": "Utilizamos produtos respeitosos com o meio ambiente para proteger sua saúde e o planeta.",
+    "cta_title": "Pronto para transformar seu espaço?",
+    "cta_descr": "Entre em contacto connosco hoje mesmo para um orçamento gratuito e descubra a diferença da CDO Multiservices.",
+    "cta_button": "Solicitar um orçamento"
+  },
+  "ReviewsPage": {
+    "title": "Avaliações de clientes",
+    "subtitle": "O que nossos clientes dizem sobre nós",
+    "button": "Adicionar uma avaliação"
+  },
+  "LegalNotices": {
+    "title": "Aviso Legal",
+    "update": "Última atualização: Janeiro 2026",
+    "titleSection_1": "1 - Informações legais",
+    "phone": "Tel.",
+    "contributors": "Outros contribuintes",
+    "titleSection_2": "2 - Hospedagem",
+    "website": "Site web",
+    "titleSection_3": "3 - Propriedade intelectual",
+    "section_3_strong": "CDO Multiservices Sàrl",
+    "section_3_1": "é proprietária dos direitos de propriedade intelectual e detém os direitos de uso sobre todos os elementos acessíveis no site, incluindo textos, imagens, gráficos, logotipos, vídeos, arquitetura, ícones e sons.",
+    "section_3_2": " Qualquer reprodução, representação, modificação, publicação ou adaptação de todo ou parte dos elementos do site, por qualquer meio ou processo, é proibida, salvo autorização prévia por escrito de",
+    "section_3_3": "Qualquer exploração não autorizada do site ou de quaisquer elementos contidos nele será considerada uma infração e perseguida legalmente.",
+    "titleSection_4": "4 - Responsabilidade",
+    "section_4_1": "não poderá ser responsabilizada directamente ou indirectamente por danos causados ao equipamento do usuário durante o acesso ao site",
+    "websiteUrl": "https://www.cdo-multiservices.ch",
+    "section_4_2": "declina qualquer responsabilidade quanto ao uso das informações e conteúdos presentes no site.",
+    "section_4_3_1": " Apesar de todos os cuidados na redação e atualização do conteúdo,",
+    "section_4_3_2": "não pode ser responsabilizada por eventuais erros ou omissões no site. O site pode ser suspenso ou interrompido sem aviso prévio em caso de manutenção ou problema técnico.",
+    "section_4_4": "compromete-se a proteger o site da melhor forma possível. No entanto, sua responsabilidade não poderá ser acionada em caso de:",
+    "section_4_4_1": "Força maior (eventos naturais, catástrofes, graves, incidentes legais ou regulatórios imprevistos);",
+    "section_4_4_2": "Falha, mau funcionamento ou indisponibilidade do servidor ou da rede de internet;",
+    "section_4_4_3": "Intrusão, hacking ou ações maliciosas de terceiros que impactem o site ou os dados;",
+    "section_4_4_4": "Importação ou instalação de dados indesejados no site sem seu conhecimento.",
+    "section_4_5": "O uso do site é de inteira responsabilidade do usuário.",
+    "titleSection_5": "5 - Links externos",
+    "section_5_1": "O site",
+    "section_5_2": "pode conter links que redirecionam para outros sites operados por terceiros. Esses links são fornecidos apenas para fins informativos.",
+    "section_5_3": "não exerce qualquer controle sobre o conteúdo, exatidão, legalidade ou disponibilidade desses sites externos e não pode ser responsabilizado por danos directos ou indirectos resultantes do acesso ou uso desses recursos.",
+    "section_5_4": "A inserção desses links não implica aprovação ou associação de",
+    "section_5_5": "com os operadores desses sites. O usuário é convidado a consultar os termos de uso e políticas de privacidade de cada site antes de navegar ou interagir.",
+    "titleSection_6": "6 - Proteção de dados pessoais",
+    "section_6_1": "Os dados pessoais coletados através deste site (incluindo formulários de contacto, solicitações de orçamento ou qualquer outro contacto eletrônico) são processados exclusivamente por",
+    "section_6_1_1": "e apenas para os seguintes fins:",
+    "section_6_2_1": "gestão e acompanhamento de pedidos de contacto e orçamentos;",
+    "section_6_2_2": "comunicação com os usuários;",
+    "section_6_2_3": "gestão do relacionamento comercial;",
+    "section_6_2_4": "melhoria do site e da experiência do usuário.",
+    "section_6_3": "O processamento de dados pessoais é realizado de acordo com a Lei Federal de Proteção de Dados da Suíça (LPD) e seu regulamento de aplicação.",
+    "subtitleSection_6": "Direitos dos titulares dos dados",
+    "section_6_4": "De acordo com a LPD, toda pessoa tem os seguintes direitos:",
+    "section_6_4_1": "direito de acesso aos seus dados pessoais;",
+    "section_6_4_2": "direito de retificação de dados incorretos ou incompletos;",
+    "section_6_4_3": "direito de exclusão de dados, dentro dos limites previstos por lei;",
+    "section_6_4_4": "direito de se opor ao processamento de seus dados por motivos legítimos;",
+    "section_6_4_5": "direito de se opor ao processamento de seus dados por motivos legítimos;",
+    "section_6_5": "Pedidos relativos ao exercício desses direitos podem ser enviados para:",
+    "subtitleSection_6_1": "Tempo de retenção",
+    "section_6_6": "Os dados pessoais são mantidos apenas pelo tempo necessário para atingir os fins para os quais foram colectados, salvo obrigação legal ou regulatória que exija prazo mais longo.",
+    "subtitleSection_6_2": "Informações adicionais",
+    "section_6_7": "Para mais informações sobre coleta, uso e proteção de seus dados pessoais, consulte nossa",
+    "section_6_7_1": ", disponível no site.",
+    "titleSection_7": "7 - Cookies",
+    "section_7_1": "O site",
+    "section_7_2": "utiliza cookies e tecnologias similares para garantir seu funcionamento, melhorar a experiência do usuário e analisar o uso do site.",
+    "subtitleSection_7_1": "Tipos de cookies utilizados",
+    "section_7_3": "De acordo com os recursos ativados, o site pode usar as seguintes categorias de cookies:",
+    "section_7_3_1": "Cookies estritamente necessários",
+    "section_7_3_1_1": "Indispensáveis para o funcionamento do site e segurança (navegação, acesso a formulários, armazenamento de preferências técnicas).",
+    "section_7_3_2": "Cookies de medição de audiência e desempenho",
+    "section_7_3_2_1": "Permitem obter estatísticas anonimizadas sobre a frequência e uso do site, ajudando a melhorar conteúdo e desempenho.",
+    "section_7_3_3": "Cookies funcionais",
+    "section_7_3_3_1": "Permitem memorizar algumas preferências do usuário para melhorar sua experiência de navegação.",
+    "subtitleSection_7_2": "Consentimento",
+    "section_7_4": "Na sua primeira visita ao site, uma barra de informação permite aceitar, recusar ou configurar o uso de cookies não essenciais, conforme a LPD.",
+    "section_7_4_1": "Você pode alterar suas preferências ou retirar seu consentimento a qualquer momento através das configurações do navegador ou das ferramentas de gerenciamento de cookies disponíveis no site.",
+    "subtitleSection_7_3": "Tempo de retenção",
+    "section_7_5": "Os cookies são mantidos por um período limitado, proporcional à sua finalidade e não excedendo os prazos autorizados pela legislação aplicável.",
+    "subtitleSection_7_4": "Informações adicionais",
+    "section_7_6": "Para mais informações sobre o uso de cookies e o tratamento de dados associados, consulte nossa",
+    "section_7_6_1": ", disponível no site.",
+    "titleSection_8": "8 - Lei aplicável e foro",
+    "section_8": "O presente aviso legal está sujeito à legislação suíça.",
+    "section_8_1": "Em caso de litígio, os tribunais do Cantão de Genebra são os únicos competentes, salvo disposições legais obrigatórias em contrário.",
+    "politic": "Política de Privacidade"
+  },
+  "PrivacyPolicy": {
+    "title": "Política de Privacidade",
+    "update": "Última atualização: Janeiro 2026",
+    "titleSection_1": "1 – Introdução",
+    "section_1_1": "O site",
+    "section_1_1_1": "CDO Multiservices",
+    "websiteUrl": "https://www.cdo-multiservices.ch",
+    "section_1_1_2": "é operado pela CDO Multiservices Sàrl, empresa sediada em Genebra, Suíça, que atua como responsável pelo tratamento de dados pessoais nos termos da Lei Federal de Proteção de Dados (LPD).",
+    "section_1_2": "Esta política de privacidade descreve como coletamos, usamos e protegemos os dados pessoais dos usuários do nosso site. Ao utilizar este site, você concorda com as práticas descritas nesta política.",
+    "section_1_3": "Valorizamos muito a proteção de seus dados pessoais e nos comprometemos a tratá-los de forma confidencial e segura.",
+    "titleSection_2": "2 – Dados pessoais coletados",
+    "subtitleSection_2": "Dados coletados automaticamente",
+    "section_2": "Durante sua visita ao nosso site, algumas informações podem ser coletadas automaticamente, incluindo:",
+    "section_2_1": "endereço IP",
+    "section_2_2": "tipo e versão do navegador",
+    "section_2_3": "sistema operacional",
+    "section_2_4": "páginas visitadas",
+    "section_2_5": "data e hora da visita",
+    "section_2_6": "cookies e tecnologias similares",
+    "section_2_7": "Esses dados são usados para fins estatísticos, de segurança e melhoria do site.",
+    "subtitleSection_2_1": "Dados fornecidos voluntariamente",
+    "section_2_1_1": "Ao utilizar nosso formulário de contacto, podemos coletar os seguintes dados:",
+    "section_2_1_2": "nome e sobrenome",
+    "section_2_1_3": "endereço de email",
+    "section_2_1_4": "endereço de email",
+    "section_2_1_5": "Nome da empresa",
+    "section_2_1_6": "serviço desejado",
+    "section_2_1_7": "conteúdo da sua mensagem",
+    "section_2_1_8": "Esses dados são fornecidos voluntariamente pelo usuário.",
+    "titleSection_3": "3 – Finalidades do tratamento",
+    "section_3": "Os dados pessoais são processados exclusivamente para as seguintes finalidades:",
+    "section_3_1": "responder às solicitações enviadas através do formulário de contacto",
+    "section_3_2": "comunicar-se com os usuários",
+    "section_3_3": "garantir o bom funcionamento e a segurança do site",
+    "section_3_4": "gerar estatísticas anônimas de visitas",
+    "section_3_5": "cumprir nossas obrigações legais",
+    "section_3_6": "Coletamos apenas os dados estritamente necessários para essas finalidades (princípio da minimização – art. 6 LPD).",
+    "titleSection_4": "4 – Base legal do tratamento",
+    "section_4": "O tratamento de dados pessoais baseia-se em:",
+    "section_4_1": "consentimento do usuário (formulário de contacto, cookies)",
+    "section_4_2": "interesse legítimo do responsável pelo tratamento (segurança do site, funcionamento técnico)",
+    "section_4_3": "obrigações legais aplicáveis na Suíça",
+    "titleSection_5": "5 – Cookies",
+    "section_5": "Nosso site utiliza cookies para melhorar a experiência do usuário e analisar o uso do site.",
+    "section_5_1": "Os cookies podem ser:",
+    "section_5_1_1": "técnicos (necessários para o funcionamento do site)",
+    "section_5_1_2": "analíticos (estatísticas de visitas)",
+    "section_5_2": "Você pode configurar seu navegador a qualquer momento para recusar ou excluir os cookies.",
+    "section_5_3": "A recusa de certos cookies pode, no entanto, afectar o bom funcionamento do site.",
+    "titleSection_6": "6 – Tempo de retenção",
+    "section_6": "Os dados pessoais são mantidos apenas pelo tempo necessário para atingir as finalidades para as quais foram coletados:",
+    "section_6_1": "dados do formulário de contacto: duração do processamento da solicitação, seguida de arquivamento limitado",
+    "section_6_2": "dados técnicos e estatísticos: duração limitada ou anonimização",
+    "titleSection_7": "7 – Direitos dos titulares dos dados",
+    "section_7": "De acordo com a LPD, você tem os seguintes direitos:",
+    "section_7_1": "direito de acesso aos seus dados pessoais",
+    "section_7_2": "direito de retificação de dados incorretos",
+    "section_7_3": "direito de exclusão, quando legalmente possível",
+    "section_7_4": "direito de oposição ao tratamento",
+    "section_7_5": "direito de solicitar a limitação do tratamento",
+    "section_7_6": "Para exercer seus direitos, você pode nos contatar no seguinte endereço:",
+    "titleSection_8": "8 – Transmissão de dados a terceiros",
+    "section_8": "Seus dados pessoais não são vendidos, alugados ou transmitidos a terceiros, excepto em caso de:",
+    "section_8_1": "obrigação legal",
+    "section_8_2": "fornecedores técnicos estritamente necessários para o funcionamento do site (hospedagem, manutenção), sujeitos a obrigações de confidencialidade",
+    "titleSection_9": "9 – Segurança dos dados",
+    "section_9": "Implementamos medidas técnicas e organizacionais adequadas para proteger seus dados contra acesso não autorizado, perda, alteração ou divulgação.",
+    "section_9_1": "No entanto, nenhuma transmissão de dados pela Internet pode ser garantida como totalmente segura.",
+    "titleSection_10": "10 – Links para sites de terceiros",
+    "section_10": "Nosso site pode conter links para sites de terceiros. Não exercemos controle sobre esses sites e isentamo-nos de qualquer responsabilidade quanto às suas práticas de proteção de dados.",
+    "titleSection_11": "11 – Alterações na política",
+    "section_11": "Reservamo-nos o direito de alterar esta política de privacidade a qualquer momento. A versão em vigor é aquela publicada no site na data indicada no topo da página.",
+    "titleSection_12": "12 – Contacto",
+    "section_12": "Para qualquer questão relacionada a esta política de privacidade ou ao tratamento de seus dados pessoais, você pode nos contatar no seguinte endereço:"
+  },
+  "ReviewFormPage": {
+    "title": "Deixe sua avaliação",
+    "subtitle": "Seu feedback é valioso e nos ajuda a melhorar nossos serviços diariamente.",
+    "name": "Seu nome",
+    "mail": "Seu email",
+    "note": "Sua avaliação",
+    "review": "Compartilhe sua experiência com a CDO Multiservices...",
+    "submit": "Enviar minha avaliação",
+    "loading": "Enviando...",
+    "send": "Obrigado pela sua avaliação! Ela será publicada após validação.",
+    "error": "Ocorreu um erro. Por favor, tente novamente.",
+    "legal_1": "Ao enviar este formulário, você concorda que seus dados sejam tratados de acordo com nossa",
+    "legal_2": "Política de Privacidade"
+  }
+}

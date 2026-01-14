@@ -1,0 +1,748 @@
+{
+  "Navbar": {
+    "services": "Services",
+    "gallery": "Galerie",
+    "reviews": "Avis",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "span": "Nettoyage professionnel",
+    "h1": "Nettoyage Professionnel en Suisse",
+    "h2": "CDO Multiservices : votre partenaire de confiance pour un environnement impeccable",
+    "button_1": "Demander un devis",
+    "button_2": "Nos Services",
+    "highlight_1": "Clients satisfaits",
+    "highlight_2": "Années d'expérience",
+    "highlight_3": "Satisfaction garantie"
+  },
+  "Services": {
+    "title": "Nos Services",
+    "subtitle": "Des solutions de nettoyage adaptées à tous vos besoins",
+    "button": "Voir tout nos services",
+
+    "items": {
+      "general": {
+        "title": "Nettoyage général",
+        "description": "Un entretien complet pour vos espaces, adapté à vos besoins."
+      },
+      "windows": {
+        "title": "Nettoyage de vitres",
+        "description": "Des vitres impeccables pour particuliers et professionnels."
+      },
+      "offices": {
+        "title": "Nettoyage de bureaux",
+        "description": "Des bureaux propres pour un environnement de travail sain."
+      },
+      "concierge": {
+        "title": "Service de conciergerie",
+        "description": "Entretien régulier complet de vos immeubles."
+      },
+      "maid": {
+        "title": "Service femme de ménage",
+        "description": "Des prestations fiables pour votre ménage du quotidien."
+      },
+      "spring": {
+        "title": "Nettoyage de printemps",
+        "description": "Un nettoyage en profondeur pour rafraîchir votre intérieur."
+      },
+      "renovation": {
+        "title": "Nettoyage de fin de chantier",
+        "description": "Élimination complète des résidus après travaux."
+      },
+      "lease": {
+        "title": "Nettoyage de fin de bail",
+        "description": "Rendu impeccable pour votre état des lieux."
+      }
+    }
+  },
+  "WhyUs": {
+    "h2": "Pourquoi choisir CDO Multiservices ?",
+    "items": {
+      "quality": {
+        "title": "Qualité garantie",
+        "description": "Équipements professionnels et produits écologiques"
+      },
+      "experience": {
+        "title": "Expérience prouvée",
+        "description": "Des années d'expertise en Suisse"
+      },
+      "certified": {
+        "title": "Certifié",
+        "description": "Assurances et certifications en ordre"
+      },
+      "available": {
+        "title": "Disponible",
+        "description": "Service rapide et flexible"
+      }
+    }
+  },
+  "Reviews": {
+    "title": "Avis Clients",
+    "subtitle": "Ce que nos clients disent de nous",
+    "button": "Voir tout les avis"
+  },
+  "Footer": {
+    "description": "CDO Multiservices - Expert en nettoyage professionnel en Suisse",
+    "fr": "Français",
+    "en": "Anglais",
+    "pt": "Portugais",
+    "h3_1": "Lien rapides",
+    "services": "Services",
+    "gallery": "Galerie",
+    "reviews": "Avis",
+    "about": "À propos",
+    "contact": "Contact",
+    "h3_2": "Légal",
+    "legalNotice": "Mentions légales",
+    "privacyPolicy": "Politique de confidentialité",
+    "h3_3": "Contact",
+    "days": "Lun-Sam: 8h-19h",
+    "copyright": "© 2025 CDO Multiservices. Tous droits réservés",
+    "p": "Made with love by"
+  },
+  "ServicesPage": {
+    "title": "Nos Services",
+    "subtitle": "Des solutions de nettoyage adaptées à tous vos besoins",
+
+    "generalCleaningTitle": "Nettoyage général",
+    "generalCleaningDesc": "Un entretien complet et régulier pour garantir des espaces propres, sains et agréables au quotidien.",
+
+    "windowCleaningTitle": "Nettoyage de vitres",
+    "windowCleaningDesc": "Des vitres impeccables, sans traces ni résidus, pour laisser entrer toute la lumière naturelle.",
+
+    "officeCleaningTitle": "Nettoyage de bureaux",
+    "officeCleaningDesc": "Un environnement de travail propre et organisé pour améliorer le confort et la productivité.",
+
+    "conciergeServiceTitle": "Service de conciergerie",
+    "conciergeServiceDesc": "Une assistance polyvalente pour la gestion de vos locaux : petites tâches, maintenance légère et soutien quotidien.",
+
+    "housekeeperTitle": "Service femme de ménage",
+    "housekeeperDesc": "Un entretien professionnel de votre domicile avec soin, discrétion et efficacité.",
+
+    "springCleaningTitle": "Nettoyage de printemps",
+    "springCleaningDesc": "Un nettoyage en profondeur pour rafraîchir entièrement votre maison ou vos locaux après l’hiver.",
+
+    "constructionCleaningTitle": "Nettoyage de fin de chantier",
+    "constructionCleaningDesc": "Élimination des poussières, résidus et débris pour rendre votre espace impeccable après travaux.",
+
+    "endOfLeaseCleaningTitle": "Nettoyage de fin de bail",
+    "endOfLeaseCleaningDesc": "Un nettoyage complet destiné à faciliter l’état des lieux et la récupération de votre caution."
+  },
+  "GeneralCleaningPage": {
+    "badge": "Service professionnel",
+    "title": "Nettoyage général",
+    "subtitle": "Un environnement propre, sain et impeccable pour votre maison ou vos locaux.",
+    "primaryCta": "Demander un devis",
+    "secondaryCta": "Voir nos services",
+    "imageAlt": "Service de nettoyage général professionnel",
+
+    "intro": {
+      "title": "Un nettoyage complet et soigné",
+      "text": "Notre service de nettoyage général est conçu pour maintenir vos espaces propres, ordonnés et agréables au quotidien. Que ce soit pour une maison, un appartement ou un local professionnel, nos équipes assurent un travail minutieux et fiable."
+    },
+
+    "services": {
+      "title": "Ce que comprend notre service",
+      "items": {
+        "surfaces": "Nettoyage et désinfection de toutes les surfaces",
+        "livingAreas": "Entretien des espaces de vie, chambres et bureaux",
+        "kitchen": "Nettoyage complet de la cuisine",
+        "bathroom": "Nettoyage complet des salles de bain et sanitaires",
+        "windows": "Nettoyage intérieur des vitres et miroirs accessibles",
+        "furniture": "Nettoyage du mobilier accessible",
+        "details": "Nettoyage des détails et finitions",
+        "trash": "Gestion et évacuation des déchets",
+        "floors": "Aspiration et lavage de tous les sols",
+        "airing": "Aération des pièces après intervention"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Expertise professionnelle",
+        "text": "Des agents formés, expérimentés et attentifs aux moindres détails."
+      },
+      "flexibility": {
+        "title": "Flexibilité totale",
+        "text": "Interventions ponctuelles ou régulières selon vos besoins."
+      },
+      "eco": {
+        "title": "Produits responsables",
+        "text": "Utilisation de produits efficaces et respectueux de l’environnement."
+      }
+    },
+
+    "final": {
+      "title": "Besoin d’un nettoyage impeccable ?",
+      "text": "Contactez-nous dès aujourd’hui pour un devis rapide et personnalisé.",
+      "button": "Contactez-nous"
+    }
+  },
+  "OfficeCleaningPage": {
+    "title": "Nettoyage de bureaux",
+    "subtitle": "Des espaces de travail propres, sains et professionnels pour le bien-être de vos équipes.",
+    "primaryCta": "Demander un devis",
+    "secondaryCta": "Voir nos services",
+    "imageAlt": "Service professionnel de nettoyage de bureaux",
+
+    "intro": {
+      "title": "Un environnement de travail impeccable",
+      "text": "Nous proposons un service de nettoyage de bureaux adapté aux entreprises de toutes tailles. Nos équipes assurent un entretien rigoureux et discret afin de garantir un cadre de travail propre, sain et agréable au quotidien."
+    },
+
+    "services": {
+      "title": "Ce que comprend notre service",
+      "items": {
+        "surfaces": "Nettoyage et désinfection de toutes les surfaces",
+        "workspaces": "Entretien des bureaux, open spaces et salles de réunion",
+        "kitchen": "Nettoyage complet des cuisines et espaces de pause",
+        "bathroom": "Nettoyage complet des sanitaires",
+        "furniture": "Nettoyage du mobilier et équipements accessibles",
+        "details": "Nettoyage des détails et finitions",
+        "trash": "Gestion et évacuation des déchets",
+        "floors": "Aspiration et lavage de tous les sols",
+        "airing": "Aération des locaux après intervention"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Professionnalisme",
+        "text": "Des équipes formées aux exigences des environnements professionnels."
+      },
+      "flexibility": {
+        "title": "Horaires flexibles",
+        "text": "Interventions adaptées à vos contraintes : tôt le matin, en journée ou en soirée."
+      },
+      "confidentiality": {
+        "title": "Discrétion et confidentialité",
+        "text": "Respect total de vos espaces, documents et équipements professionnels."
+      }
+    },
+
+    "final": {
+      "title": "Un bureau propre, une image professionnelle",
+      "text": "Contactez-nous pour un devis personnalisé et un service de nettoyage adapté à votre entreprise.",
+      "button": "Nous contacter"
+    }
+  },
+  "ConstructionCleaningPage": {
+    "title": "Nettoyage de fin de chantier",
+    "subtitle": "Un nettoyage approfondi après travaux pour des locaux prêts à être utilisés ou livrés.",
+    "primaryCta": "Demander un devis",
+    "secondaryCta": "Voir nos services",
+    "imageAlt": "Service professionnel de nettoyage de fin de chantier",
+
+    "intro": {
+      "title": "Un nettoyage professionnel après travaux",
+      "text": "Notre service de nettoyage de fin de chantier permet d’éliminer efficacement les poussières, résidus et traces laissés après des travaux de construction ou de rénovation. Nous préparons vos espaces pour une remise des clés ou une occupation immédiate."
+    },
+
+    "services": {
+      "title": "Ce que comprend notre service",
+      "items": {
+        "debris": "Évacuation des résidus, poussières et déchets de chantier",
+        "surfaces": "Nettoyage et dégraissage de toutes les surfaces",
+        "rooms": "Nettoyage complet de toutes les pièces",
+        "windows": "Nettoyage des vitres, encadrements et surfaces vitrées",
+        "details": "Nettoyage des détails et finitions",
+        "trash": "Gestion et évacuation des déchets",
+        "floors": "Aspiration et lavage approfondi de tous les sols",
+        "airing": "Aération complète des locaux après intervention"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Expertise chantier",
+        "text": "Des équipes formées aux exigences spécifiques des nettoyages post-travaux."
+      },
+      "equipment": {
+        "title": "Matériel professionnel",
+        "text": "Utilisation d’équipements et de produits adaptés aux résidus de chantier."
+      },
+      "deadlines": {
+        "title": "Respect des délais",
+        "text": "Interventions rapides pour une livraison ou une mise en service sans retard."
+      }
+    },
+
+    "final": {
+      "title": "Des locaux prêts à l’emploi",
+      "text": "Confiez-nous le nettoyage de fin de chantier pour un résultat impeccable et professionnel.",
+      "button": "Nous contacter"
+    }
+  },
+  "EndOfLeaseCleaningPage": {
+    "title": "Nettoyage de fin de bail",
+    "subtitle": "Un nettoyage complet et minutieux pour restituer votre logement dans un état impeccable.",
+    "primaryCta": "Demander un devis",
+    "secondaryCta": "Voir nos services",
+    "imageAlt": "Service professionnel de nettoyage de fin de bail",
+
+    "intro": {
+      "title": "Un nettoyage conforme aux exigences de restitution",
+      "text": "Le nettoyage de fin de bail est une étape essentielle lors d’un déménagement. Nous réalisons un nettoyage approfondi du logement afin de répondre aux exigences des propriétaires et des agences immobilières."
+    },
+
+    "services": {
+      "title": "Ce que comprend notre service",
+      "items": {
+        "surfaces": "Nettoyage et désinfection de toutes les surfaces",
+        "rooms": "Nettoyage complet de toutes les pièces",
+        "kitchen": "Nettoyage complet de la cuisine",
+        "bathroom": "Nettoyage complet des salles de bain et sanitaires",
+        "windows": "Nettoyage intérieur des vitres et miroirs",
+        "furniture": "Nettoyage du mobilier et équipements accessibles",
+        "details": "Nettoyage des détails et finitions",
+        "trash": "Gestion et évacuation des déchets",
+        "floors": "Aspiration et lavage approfondi de tous les sols",
+        "airing": "Aération des pièces après intervention"
+      }
+    },
+
+    "values": {
+      "guarantee": {
+        "title": "Résultat conforme",
+        "text": "Un nettoyage réalisé selon les standards attendus lors d’une restitution de logement."
+      },
+      "thorough": {
+        "title": "Nettoyage en profondeur",
+        "text": "Chaque espace est traité avec soin pour un rendu impeccable."
+      },
+      "flexibility": {
+        "title": "Flexibilité et réactivité",
+        "text": "Intervention rapide et adaptée à vos délais de départ."
+      }
+    },
+
+    "final": {
+      "title": "Quittez votre logement l’esprit tranquille",
+      "text": "Confiez-nous le nettoyage de fin de bail pour une restitution sans souci.",
+      "button": "Nous contacter"
+    }
+  },
+  "WindowCleaningPage": {
+    "title": "Nettoyage de vitres",
+    "subtitle": "Des vitres impeccables, que ce soit pour votre habitation ou vos locaux professionnels.",
+    "primaryCta": "Demander un devis",
+    "secondaryCta": "Voir nos services",
+    "imageAlt": "Service de nettoyage de vitres professionnel",
+
+    "intro": {
+      "title": "Un nettoyage de vitres professionnel et complet",
+      "text": "Nous proposons un nettoyage de vitres adapté à tous types de bâtiments : maisons, appartements et locaux professionnels. Nos équipes utilisent les techniques et produits les plus efficaces pour un résultat sans traces."
+    },
+
+    "services": {
+      "title": "Ce que comprend notre service",
+      "items": {
+        "internal": "Nettoyage intérieur des vitres",
+        "external": "Nettoyage extérieur des vitres (accessible en sécurité)",
+        "frames": "Nettoyage des encadrements et bordures",
+        "sills": "Nettoyage des rebords et appuis",
+        "accessories": "Dépoussiérage des stores et accessoires proches",
+        "commercialExtra": "Pour les locaux commerciaux : vitres grandes hauteurs et vitrines accessibles par nacelle ou échelle professionnelle"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Savoir-faire",
+        "text": "Des techniciens formés aux techniques de lavage de vitres et aux hauteurs si nécessaire."
+      },
+      "safety": {
+        "title": "Sécurité",
+        "text": "Respect strict des normes de sécurité pour les interventions en hauteur."
+      },
+      "eco": {
+        "title": "Produits écologiques",
+        "text": "Utilisation de produits respectueux de l’environnement et sans traces."
+      }
+    },
+
+    "final": {
+      "title": "Des vitres éclatantes en toute sécurité",
+      "text": "Confiez-nous vos vitres pour un résultat impeccable, que ce soit chez vous ou dans vos locaux professionnels.",
+      "button": "Nous contacter"
+    }
+  },
+  "SpringCleaningPage": {
+    "title": "Nettoyage de printemps",
+    "subtitle": "Un nettoyage complet pour rafraîchir votre maison et appartement afin d'accueillir la nouvelle saison.",
+    "primaryCta": "Demander un devis",
+    "secondaryCta": "Voir nos services",
+    "imageAlt": "Service de nettoyage de printemps",
+
+    "intro": {
+      "title": "Redonnez éclat et fraîcheur à votre intérieur",
+      "text": "Le nettoyage de printemps est l'occasion de nettoyer en profondeur toutes les pièces, d’éliminer la poussière accumulée et de préparer votre maison pour la nouvelle saison. Nous intervenons avec soin et efficacité pour un résultat impeccable."
+    },
+
+    "services": {
+      "title": "Ce que comprend notre service",
+      "items": {
+        "surfaces": "Nettoyage et désinfection de toutes les surfaces",
+        "rooms": "Entretien complet des pièces de vie et chambres",
+        "kitchen": "Nettoyage complet de la cuisine",
+        "bathroom": "Nettoyage complet des salles de bain et sanitaires",
+        "windows": "Nettoyage intérieur des vitres et miroirs accessibles",
+        "furniture": "Dépoussiérage et nettoyage du mobilier",
+        "details": "Nettoyage des détails et finitions",
+        "trash": "Gestion et évacuation des déchets",
+        "floors": "Aspiration et lavage approfondi des sols",
+        "airing": "Aération complète des pièces"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Soin et minutie",
+        "text": "Des équipes qualifiées qui prennent soin de chaque espace et détail."
+      },
+      "flexibility": {
+        "title": "Interventions flexibles",
+        "text": "Nous nous adaptons à votre emploi du temps pour intervenir quand cela vous convient."
+      },
+      "eco": {
+        "title": "Produits écologiques",
+        "text": "Utilisation de produits respectueux de l’environnement pour un nettoyage sûr et efficace."
+      }
+    },
+
+    "final": {
+      "title": "Offrez un nouvel éclat à votre maison",
+      "text": "Contactez-nous pour un nettoyage de printemps complet et un intérieur rafraîchi.",
+      "button": "Nous contacter"
+    }
+  },
+  "ConciergeServicePage": {
+    "title": "Service de conciergerie",
+    "subtitle": "Des services personnalisés pour votre maison ou vos locaux, selon vos besoins.",
+    "primaryCta": "Demander un devis",
+    "secondaryCta": "Voir nos services",
+    "imageAlt": "Service de conciergerie professionnel",
+
+    "intro": {
+      "title": "Un service complet et sur-mesure",
+      "text": "Notre service de conciergerie vous permet de déléguer l’entretien, les courses, l’organisation et d’autres tâches du quotidien. Nous intervenons avec soin et discrétion pour vous simplifier la vie."
+    },
+
+    "services": {
+      "title": "Ce que comprend notre service",
+      "items": {
+        "cleaning": "Nettoyage et entretien régulier des espaces",
+        "errands": "Courses et petites commissions",
+        "organizing": "Organisation et gestion des espaces",
+        "laundry": "Repassage et gestion du linge",
+        "furniture": "Entretien du mobilier et surfaces accessibles",
+        "details": "Finitions et contrôle qualité",
+        "trash": "Gestion et évacuation des déchets",
+        "airing": "Aération des pièces après intervention"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Professionnalisme",
+        "text": "Des concierges formés et expérimentés pour répondre à vos besoins."
+      },
+      "flexibility": {
+        "title": "Flexibilité",
+        "text": "Interventions adaptées à vos horaires et contraintes."
+      },
+      "discretion": {
+        "title": "Discrétion",
+        "text": "Respect total de votre intimité et de vos biens."
+      }
+    },
+
+    "final": {
+      "title": "Simplifiez votre quotidien",
+      "text": "Contactez-nous pour un service de conciergerie sur-mesure et profiter d’un intérieur impeccable sans effort.",
+      "button": "Nous contacter"
+    }
+  },
+  "HousekeeperPage": {
+    "title": "Femme de ménage",
+    "subtitle": "Un service de ménage régulier et sur-mesure pour votre intérieur.",
+    "primaryCta": "Demander un devis",
+    "secondaryCta": "Voir nos services",
+    "imageAlt": "Service professionnel de femme de ménage",
+
+    "intro": {
+      "title": "Un intérieur toujours impeccable",
+      "text": "Nos services de femme de ménage permettent de maintenir votre maison ou appartement propre et organisé régulièrement. Nos intervenants assurent un nettoyage rigoureux tout en respectant votre intérieur."
+    },
+
+    "services": {
+      "title": "Ce que comprend notre service",
+      "items": {
+        "surfaces": "Nettoyage et désinfection de toutes les surfaces",
+        "rooms": "Entretien complet des pièces de vie et chambres",
+        "kitchen": "Nettoyage complet de la cuisine",
+        "bathroom": "Nettoyage complet des salles de bain et sanitaires",
+        "furniture": "Dépoussiérage et entretien du mobilier",
+        "details": "Finitions et contrôle qualité",
+        "trash": "Gestion et évacuation des déchets",
+        "floors": "Aspiration et lavage des sols",
+        "airing": "Aération complète des pièces"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Professionnalisme",
+        "text": "Des intervenants qualifiés et formés aux standards de ménage résidentiel."
+      },
+      "trust": {
+        "title": "Confiance",
+        "text": "Intervention fiable et respectueuse de votre intimité et de vos biens."
+      },
+      "flexibility": {
+        "title": "Flexibilité",
+        "text": "Interventions adaptées à votre emploi du temps et à vos besoins."
+      }
+    },
+
+    "final": {
+      "title": "Un intérieur propre sans effort",
+      "text": "Contactez-nous pour un service de femme de ménage régulier ou ponctuel, adapté à votre domicile.",
+      "button": "Nous contacter"
+    }
+  },
+  "ContactPage": {
+    "title": "Contactez-nous",
+    "subtitle": "Demandez votre devis gratuit",
+    "altPhoneIcon": "Icone de téléphone contact - CDO Multiservices Suisse",
+    "phoneTitle": "Téléphone",
+    "altMailIcon": "Icone de mail contact - CDO Multiservices Suisse",
+    "mailTitle": "Email",
+    "altMapIcon": "Icone de map contact - CDO Multiservices Suisse",
+    "addressTitle": "Adresse",
+    "upload": "Choisir un fichier (max 5MB)",
+    "firstName": "Prénom*",
+    "lastName": "Nom*",
+    "email": "Email*",
+    "phone": "Téléphone*",
+    "corporation": "Entreprise (optionnel)",
+    "service": "Service demandé*",
+    "selectService": "Sélectionner un service",
+    "servicesList": {
+      "general": "Nettoyage général",
+      "windows": "Nettoyage de vitres",
+      "office": "Nettoyage de bureaux",
+      "concierge": "Service de conciergerie",
+      "maid": "Service femme de ménage",
+      "spring": "Nettoyage de printemps",
+      "construction": "Nettoyage de fin de chantier",
+      "endOfLease": "Nettoyage de fin de bail"
+    },
+    "message": "Votre message*",
+    "legalCheck": "J'accepte que mes données soient utilisées pour me recontacter*",
+    "send": "Envoyer le message",
+    "errorFirstName": "Veuillez entrer votre prénom.",
+    "errorLastName": "Veuillez entrer votre nom.",
+    "errorEmail": "Veuillez entrer un email valide.",
+    "errorPhone": "Veuillez entrer votre numéro de téléphone.",
+    "errorService": "Veuillez sélectionner un service.",
+    "errorMessage": "Veuillez entrer un message.",
+    "errorConsent": "Vous devez accepter les conditions."
+  },
+  "GalleryPage": {
+    "title": "Galerie Avant / Après",
+    "subtitle": "Découvrez la qualité de notre travail",
+    "title_image_1": "Nettoyage d'armoire de rangement",
+    "title_image_2": "Nettoyage de cuisine",
+    "title_image_3": "Nettoyage de four",
+    "title_image_4": "Nettoyage armoire de rangement"
+  },
+  "AboutPage": {
+    "title": "À propos de CDO Multiservices",
+    "subtitle": "Votre partenaire de confiance pour un environnement impeccable depuis 2008",
+    "history_title": "Notre histoire",
+    "history_1": "Fondée en 2025, CDO Multiservices est née de la passion de fournir des services de nettoyage exceptionnels à travers la Suisse. Notre équipe dévouée s'engage à maintenir les plus hauts standards de propreté et de professionnalisme.",
+    "history_2": "Au fil des années, nous avons développé une expertise approfondie dans le nettoyage résidentiel, commercial et industriel, tout en restant fidèles à nos valeurs fondamentales : qualité, fiabilité et satisfaction client.",
+    "history_3": "Aujourd'hui, nous sommes fiers de servir plus de 500 clients satisfaits dans toute la Suisse, avec une équipe de professionnels qualifiés et des équipements de pointe.",
+    "value_title": "Nos valeurs",
+    "value_1": "Excellence",
+    "value_desc_1": "Nous visons l'excellence dans chaque projet, en utilisant les meilleures pratiques et équipements.",
+    "value_2": "Équipe Qualifiée",
+    "value_desc_2": "Notre équipe est formée aux dernières techniques de nettoyage et standards de sécurité.",
+    "value_3": "Engagement Écologique",
+    "value_desc_3": "Nous utilisons des produits respectueux de l'environnement pour protéger votre santé et la planète.",
+    "cta_title": "Prêt à transformer votre espace ?",
+    "cta_descr": "Contactez-nous dès aujourd'hui pour un devis gratuit et découvrez la différence CDO Multiservices.",
+    "cta_button": "Demander un devis"
+  },
+  "ReviewsPage": {
+    "title": "Avis client",
+    "subtitle": "Ce que nos clients disent de nous",
+    "button": "Ajouter un avis"
+  },
+  "LegalNotices": {
+    "title": "Mentions légales",
+    "update": "Dernière mise à jour : Janvier 2026",
+    "titleSection_1": "1 - Informations légales",
+    "phone": "Tél.",
+    "contributors": "Autres contributeurs",
+    "titleSection_2": "2 - Hébergeur",
+    "website": "Site web",
+    "titleSection_3": "3 - Propriété intellectuelle",
+    "section_3_strong": "CDO Multiservices Sàrl",
+    "section_3_1": "est propriétaire des droits de propriété intellectuelle et détient les droits d’usage sur tous les éléments accessibles sur le site internet, notamment les textes, images, graphismes, logos, vidéos, architecture, icônes et sons.",
+    "section_3_2": " Toute reproduction, représentation, modification, publication, adaptation de tout ou partie des éléments du site, quel que soit le moyen ou le procédé utilisé, est interdite, sauf autorisation écrite préalable de",
+    "section_3_3": "Toute exploitation non autorisée du site ou de l’un quelconque des éléments qu’il contient sera considérée comme constitutive d’une contrefaçon et poursuivie.",
+    "titleSection_4": "4 - Responsabilité",
+    "section_4_1": "ne pourra être tenu pour responsable des dommages directs et indirects causés au matériel de l’utilisateur, lors de l’accès au site",
+    "websiteUrl": "https://www.cdo-multiservices.ch",
+    "section_4_2": "décline toute responsabilité quant à l’utilisation qui pourrait être faite des informations et contenus présents sur le site.",
+    "section_4_3_1": " Malgré tous les soins apportés à la rédaction et à la mise à jour des contenus,",
+    "section_4_3_2": "ne peut être tenu responsable des éventuelles erreurs ou omissions présentes sur le site. Le site peut être suspendu ou interrompu sans préavis en cas de maintenance ou de problème technique.",
+    "section_4_4": "s’engage à sécuriser au mieux le site. Cependant, sa responsabilité ne pourra être engagée en cas de :",
+    "section_4_4_1": "Force majeure (événements naturels, catastrophes, grèves, incidents légaux ou réglementaires imprévus) ;",
+    "section_4_4_2": "Panne, dysfonctionnement ou indisponibilité du serveur ou du réseau internet ;",
+    "section_4_4_3": "Intrusion, piratage ou actions malveillantes d’un tiers impactant le site ou les données ;",
+    "section_4_4_4": "Importation ou installation de données indésirables sur le site à son insu.",
+    "section_4_5": "L’utilisation du site se fait sous la seule responsabilité de l’utilisateur.",
+    "titleSection_5": "5 - Liens externes",
+    "section_5_1": "Le site",
+    "section_5_2": "peut contenir des liens hypertextes redirigeant vers d’autres sites internet exploités par des tiers. Ces liens sont fournis uniquement à titre informatif.",
+    "section_5_3": "n’exerce aucun contrôle sur le contenu, l’exactitude, la légalité ou la disponibilité de ces sites externes et ne saurait en aucun cas être tenu responsable des dommages, directs ou indirects, résultant de l’accès ou de l’utilisation de ces ressources tierces.",
+    "section_5_4": "L’insertion de tels liens n’implique aucune approbation ni association de",
+    "section_5_5": "avec les exploitants de ces sites. L’utilisateur est invité à consulter les conditions générales d’utilisation et les politiques de confidentialité applicables à chaque site tiers avant toute navigation ou interaction.",
+    "titleSection_6": "6. Protection des données personnelles",
+    "section_6_1": "Les données personnelles collectées via ce site (notamment via le formulaire de contact, les demandes de devis ou toute prise de contact électronique) sont traitées exclusivement par",
+    "section_6_1_1": "et uniquement dans le cadre des finalités suivantes :",
+    "section_6_2_1": "gestion et suivi des demandes de contact et de devis ;",
+    "section_6_2_2": "communication avec les utilisateurs ;",
+    "section_6_2_3": "gestion de la relation commerciale ;",
+    "section_6_2_4": "amélioration du site et de l’expérience utilisateur.",
+    "section_6_3": "Le traitement des données personnelles est effectué conformément à la Loi fédérale sur la protection des données (LPD) et à son ordonnance d’application.",
+    "subtitleSection_6": "Droits des personnes concernées",
+    "section_6_4": "Conformément à la LPD, toute personne concernée dispose notamment des droits suivants :",
+    "section_6_4_1": "droit d’accès à ses données personnelles ;",
+    "section_6_4_2": "droit de rectification des données inexactes ou incomplètes ;",
+    "section_6_4_3": "droit à l’effacement des données, dans les limites prévues par la loi ;",
+    "section_6_4_4": "droit d’opposition au traitement de ses données pour des motifs légitimes ;",
+    "section_6_4_5": "droit d’opposition au traitement de ses données pour des motifs légitimes ;",
+    "section_6_5": "Les demandes relatives à l’exercice de ces droits peuvent être adressées à :",
+    "subtitleSection_6_1": "Durée de conservation",
+    "section_6_6": "Les données personnelles sont conservées uniquement pendant la durée nécessaire à la réalisation des finalités pour lesquelles elles ont été collectées, sauf obligation légale ou réglementaire imposant une durée de conservation plus longue.",
+    "subtitleSection_6_2": "Informations complémentaires",
+    "section_6_7": "Pour plus d’informations sur la collecte, l’utilisation et la protection de vos données personnelles, veuillez consulter notre",
+    "section_6_7_1": ", accessible depuis le site.",
+    "titleSection_7": "7 - Cookies",
+    "section_7_1": "Le site",
+    "section_7_2": " utilise des cookies et technologies similaires afin d’assurer son bon fonctionnement, d’améliorer l’expérience utilisateur et d’analyser l’utilisation du site.",
+    "subtitleSection_7_1": "Types de cookies utilisés",
+    "section_7_3": "Selon les fonctionnalités activées, le site peut utiliser les catégories de cookies suivantes :",
+    "section_7_3_1": "Cookies strictement nécessaires",
+    "section_7_3_1_1": "Indispensables au fonctionnement du site et à la sécurité (navigation, accès aux formulaires, mémorisation des préférences techniques).",
+    "section_7_3_2": "Cookies de mesure d’audience et de performance",
+    "section_7_3_2_1": "Permettent d’obtenir des statistiques anonymisées sur la fréquentation et l’utilisation du site, afin d’en améliorer le contenu et les performances.",
+    "section_7_3_3": "Cookies fonctionnels",
+    "section_7_3_3_1": "Permettent de mémoriser certaines préférences de l’utilisateur afin d’améliorer son expérience de navigation.",
+    "subtitleSection_7_2": "Consentement",
+    "section_7_4": "Lors de votre première visite sur le site, un bandeau d’information vous permet d’accepter, de refuser ou de paramétrer l’utilisation des cookies non essentiels, conformément à la Loi fédérale sur la protection des données (LPD).",
+    "section_7_4_1": "Vous pouvez à tout moment modifier vos préférences ou retirer votre consentement via les paramètres de votre navigateur ou les outils de gestion des cookies mis à disposition sur le site.",
+    "subtitleSection_7_3": "Durée de conservation",
+    "section_7_5": "Les cookies sont conservés pour une durée limitée, proportionnée à leur finalité, et n’excédant pas les délais autorisés par la législation applicable.",
+    "subtitleSection_7_4": "Informations complémentaires",
+    "section_7_6": "Pour plus d’informations sur l’utilisation des cookies et le traitement des données associées, veuillez consulter notre",
+    "section_7_6_1": ", accessible depuis le site.",
+    "titleSection_8": "8 - Droit applicable et for juridique",
+    "section_8": "Les présentes mentions légales sont soumises au droit suisse.",
+    "section_8_1": "En cas de litige, les tribunaux du canton de Genève sont seuls compétents, sous réserve de dispositions légales impératives contraires."
+  },
+  "PrivacyPolicy": {
+    "title": "Politique de confidentialité",
+    "update": "Dernière mise à jour : Janvier 2026",
+    "titleSection_1": "1 – Introduction",
+    "section_1_1": "Le site",
+    "section_1_1_1": "CDO Multiservices",
+    "websiteUrl": "https://www.cdo-multiservices.ch",
+    "section_1_1_2": "est exploité par CDO Multiservices Sàrl, société basée à Genève, Suisse, qui agit en tant que responsable du traitement des données personnelles au sens de la Loi fédérale sur la protection des données (LPD).",
+    "section_1_2": "La présente politique de confidentialité décrit la manière dont nous collectons, utilisons et protégeons les données personnelles des utilisateurs de notre site web. En utilisant ce site, vous acceptez les pratiques décrites dans cette politique.",
+    "section_1_3": "Nous attachons une grande importance à la protection de vos données personnelles et nous nous engageons à les traiter de manière confidentielle et sécurisée.",
+    "titleSection_2": "2 – Données personnelles collectées",
+    "subtitleSection_2": "Données collectées automatiquement",
+    "section_2": "Lors de votre visite sur notre site, certaines informations peuvent être collectées automatiquement, notamment :",
+    "section_2_1": "adresse IP",
+    "section_2_2": "type et version du navigateur",
+    "section_2_3": "système d’exploitation",
+    "section_2_4": "pages visitées",
+    "section_2_5": "date et heure de la visite",
+    "section_2_6": "cookies et technologies similaires",
+    "section_2_7": "Ces données sont utilisées à des fins statistiques, de sécurité et d’amélioration du site.",
+    "subtitleSection_2_1": "Données fournies volontairement",
+    "section_2_1_1": "Lorsque vous utilisez notre formulaire de contact, nous pouvons collecter les données suivantes :",
+    "section_2_1_2": "nom et prénom",
+    "section_2_1_3": "adresse email",
+    "section_2_1_4": "adresse email",
+    "section_2_1_5": "Nom de la société",
+    "section_2_1_6": "service souhaité",
+    "section_2_1_7": "contenu de votre message",
+    "section_2_1_8": "Ces données sont fournies volontairement par l’utilisateur.",
+    "titleSection_3": "3 – Finalités du traitement",
+    "section_3": "Les données personnelles sont traitées exclusivement pour les finalités suivantes :",
+    "section_3_1": "répondre aux demandes envoyées via le formulaire de contact",
+    "section_3_2": "communiquer avec les utilisateurs",
+    "section_3_3": "assurer le bon fonctionnement et la sécurité du site",
+    "section_3_4": "établir des statistiques anonymes de fréquentation",
+    "section_3_5": "respecter nos obligations légales",
+    "section_3_6": "Nous ne collectons que les données strictement nécessaires à ces finalités (principe de minimisation – art. 6 LPD).",
+    "titleSection_4": "4 – Base légale du traitement",
+    "section_4": "Le traitement des données personnelles repose sur :",
+    "section_4_1": "le consentement de l’utilisateur (formulaire de contact, cookies)",
+    "section_4_2": "l’intérêt légitime du responsable du traitement (sécurité du site, fonctionnement technique)",
+    "section_4_3": "les obligations légales applicables en Suisse",
+    "titleSection_5": "5 – Cookies",
+    "section_5": "Notre site utilise des cookies afin d’améliorer l’expérience utilisateur et d’analyser l’utilisation du site.",
+    "section_5_1": "Les cookies peuvent être :",
+    "section_5_1_1": "techniques (nécessaires au fonctionnement du site)",
+    "section_5_1_2": "analytiques (statistiques de fréquentation)",
+    "section_5_2": "Vous pouvez à tout moment configurer votre navigateur pour refuser ou supprimer les cookies.",
+    "section_5_3": "Le refus de certains cookies peut toutefois affecter le bon fonctionnement du site.",
+    "titleSection_6": "6 – Durée de conservation",
+    "section_6": "Les données personnelles sont conservées uniquement pendant la durée nécessaire à la réalisation des finalités pour lesquelles elles ont été collectées :",
+    "section_6_1": "données issues du formulaire de contact : durée du traitement de la demande, puis archivage limité",
+    "section_6_2": "données techniques et statistiques : durée limitée ou anonymisation",
+    "titleSection_7": "7 – Droits des personnes concernées",
+    "section_7": "Conformément à la LPD, vous disposez notamment des droits suivants :",
+    "section_7_1": "droit d’accès à vos données personnelles",
+    "section_7_2": "droit de rectification des données inexactes",
+    "section_7_3": "droit à l’effacement, lorsque cela est légalement possible",
+    "section_7_4": "droit d’opposition au traitement",
+    "section_7_5": "droit de demander la limitation du traitement",
+    "section_7_6": "Pour exercer vos droits, vous pouvez nous contacter à l’adresse suivante :",
+    "titleSection_8": "8 – Transmission des données à des tiers",
+    "section_8": "Vos données personnelles ne sont ni vendues, ni louées, ni transmises à des tiers, sauf :",
+    "section_8_1": "obligation légale",
+    "section_8_2": "prestataires techniques strictement nécessaires au fonctionnement du site (hébergement, maintenance), soumis à des obligations de confidentialité",
+    "titleSection_9": "9 – Sécurité des données",
+    "section_9": "Nous mettons en œuvre des mesures techniques et organisationnelles appropriées afin de protéger vos données contre tout accès non autorisé, perte, altération ou divulgation.",
+    "section_9_1": "Toutefois, aucune transmission de données sur Internet ne peut être garantie comme totalement sécurisée.",
+    "titleSection_10": "10 – Liens vers des sites tiers",
+    "section_10": "Notre site peut contenir des liens vers des sites web tiers. Nous n’exerçons aucun contrôle sur ces sites et déclinons toute responsabilité quant à leurs pratiques en matière de protection des données.",
+    "titleSection_11": "11 – Modifications de la politique",
+    "section_11": "Nous nous réservons le droit de modifier la présente politique de confidentialité à tout moment. La version en vigueur est celle publiée sur le site à la date indiquée en haut de page.",
+    "titleSection_12": "12 – Contact",
+    "section_12": "Pour toute question relative à la présente politique de confidentialité ou au traitement de vos données personnelles, vous pouvez nous contacter à l’adresse suivante :"
+  },
+  "ReviewFormPage": {
+    "title": "Donnez votre avis",
+    "subtitle": "Votre retour est précieux et nous aide à améliorer nos services au quotidien.",
+    "name": "Votre nom",
+    "mail": "Votre email",
+    "note": "Votre note",
+    "review": "Partagez votre expérience avec CDO Multiservices...",
+    "submit": "Donner mon avis",
+    "loading": "Envoi...",
+    "send": "Merci pour votre avis ! Il sera publié après validation.",
+    "error": "Une erreur est survenue. Veuillez réessayer.",
+    "legal_1": "En soumettant ce formulaire, vous acceptez que vos données soient traitées conformément à notre",
+    "legal_2": "Politique de confidentialité"
+  }
+}

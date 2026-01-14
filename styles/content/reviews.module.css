@@ -1,0 +1,314 @@
+.reviewsContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin: 4rem 0;
+  gap: 1rem;
+}
+.reviewsContainer h2 {
+  font-size: var(--fs-2);
+  text-align: center;
+}
+.reviewsContainer p {
+  font-size: var(--fs-12);
+  color: var(--cta-color);
+  text-align: center;
+}
+/* Wrapper nécessaire pour cacher l'overflow */
+/* Wrapper du slider */
+.sliderWrapper {
+  width: 100%;
+  overflow-x: auto;
+  padding: 10px 0;
+  /* Scrollbar pour Firefox */
+  scrollbar-width: thin;
+  scrollbar-color: var(--cta-color) transparent;
+}
+
+/* Scrollbar pour Chrome, Edge, Safari */
+.sliderWrapper::-webkit-scrollbar {
+  height: 8px; /* hauteur de la scrollbar horizontale */
+}
+
+.sliderWrapper::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.sliderWrapper::-webkit-scrollbar-thumb {
+  background-color: var(--cta-color);
+  border-radius: 4px;
+  border: 2px solid transparent; /* pour un peu de padding visuel */
+  background-clip: content-box;
+}
+
+.sliderWrapper::-webkit-scrollbar-thumb:hover {
+  background-color: var(--cta-color);
+}
+
+/* Scroll horizontal + snap */
+.reviewsList {
+  display: flex;
+  gap: 1rem;
+  padding: 10px;
+  list-style: none;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none; /* Firefox */
+}
+
+/* Carte de chaque avis */
+.review {
+  flex: 0 0 280px; /* largeur d'une "slide" */
+  scroll-snap-align: center;
+  background: #fff;
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.12);
+  max-height: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.review div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+.review strong {
+  font-size: var(--fs-12);
+}
+.review p {
+  display: -webkit-box;
+  line-clamp: 5;
+  -webkit-line-clamp: 5; /* ≈ nombre de lignes visibles avant "…" */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: var(--fs-1);
+}
+/* --- Modal Container --- */
+.modalContainer {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: 0.3s ease;
+  z-index: 9999;
+}
+
+.modalContainer.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* --- Background overlay --- */
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  opacity: 0;
+  transition: 0.3s ease;
+}
+
+.overlay.active {
+  opacity: 1;
+}
+
+/* --- Modal Box --- */
+.reviewModal {
+  position: relative;
+  width: 90%;
+  max-width: 550px;
+  padding: 2rem;
+  background: var(--white);
+  border-radius: 12px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.25);
+  z-index: 10;
+  animation: modalFade 0.25s ease;
+}
+
+@keyframes modalFade {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Close button */
+.modalCloseBtn {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: transparent;
+  border: none;
+  font-size: var(--fs-14);
+  cursor: pointer;
+}
+
+/* Header */
+.modalHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.modalHeader h3 {
+  font-size: var(--fs-16);
+}
+
+.stars span {
+  font-size: var(--fs-12);
+}
+
+/* Content */
+.modalContent p {
+  font-size: var(--fs-1);
+  line-height: 1.6;
+}
+
+.button {
+  display: inline-flex;
+  gap: 5px;
+  padding: 15px;
+  background: transparent;
+  border: none;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.4s ease;
+  border: 1px solid var(--cta-color);
+}
+.button button {
+  background: transparent;
+  border: none;
+  font-size: var(--fs-1);
+  color: var(--cta-color);
+}
+.button:hover img {
+  transform: translateX(5px);
+  transition: all 0.4s ease;
+}
+
+@media (min-width: 768px) {
+  .reviewsContainer h2 {
+    font-size: var(--fs-24);
+  }
+  .review strong {
+    font-size: var(--fs-12);
+  }
+  .review p {
+    font-size: var(--fs-11);
+  }
+  .modalCloseBtn {
+    position: absolute;
+    top: 8px;
+    right: 12px;
+    background: transparent;
+    border: none;
+    font-size: var(--fs-16);
+    cursor: pointer;
+  }
+  .modalHeader h3 {
+    font-size: var(--fs-18);
+  }
+
+  .stars span {
+    font-size: var(--fs-14);
+  }
+
+  /* Content */
+  .modalContent p {
+    font-size: var(--fs-11);
+    line-height: 1.6;
+  }
+  .button button {
+    font-size: var(--fs-11);
+  }
+}
+
+@media (min-width: 1024px) {
+  .reviewsContainer h2 {
+    font-size: var(--fs-28);
+  }
+  .review {
+    flex: 0 0 340px;
+  }
+  .review strong {
+    font-size: var(--fs-14);
+  }
+  .review p {
+    font-size: var(--fs-12);
+  }
+  .modalHeader {
+    justify-content: flex-start;
+    gap: 18rem;
+  }
+  .modalHeader h3 {
+    font-size: var(--fs-22);
+  }
+
+  .stars span {
+    font-size: var(--fs-16);
+  }
+
+  /* Content */
+  .reviewModal {
+    max-width: 700px;
+  }
+  .modalContent p {
+    font-size: var(--fs-12);
+    line-height: 1.6;
+  }
+  .button button {
+    font-size: var(--fs-12);
+  }
+}
+
+@media (min-width: 1280px) {
+  .reviewsContainer h2 {
+    font-size: var(--fs-28);
+  }
+  .review {
+    flex: 0 0 400px;
+  }
+  .review strong {
+    font-size: var(--fs-14);
+  }
+  .review p {
+    font-size: var(--fs-13);
+  }
+  .modalHeader {
+    justify-content: flex-start;
+    gap: 18rem;
+  }
+  .modalHeader h3 {
+    font-size: var(--fs-22);
+  }
+
+  .stars span {
+    font-size: var(--fs-16);
+  }
+
+  .modalContent p {
+    font-size: var(--fs-13);
+    line-height: 1.6;
+  }
+  .button button {
+    font-size: var(--fs-13);
+  }
+}

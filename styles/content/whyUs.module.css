@@ -1,0 +1,123 @@
+.whyUsContainer {
+  background: linear-gradient(
+    135deg,
+    rgba(19, 108, 108, 0.6) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  padding: 4rem 0 4rem 0;
+}
+.whyUsContainer h2 {
+  width: 90%;
+  font-size: var(--fs-2);
+  margin: 0 auto;
+  text-align: center;
+  margin: 0 auto 3rem;
+}
+.featuresList {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  list-style: none;
+  margin: 0 auto;
+}
+.featureItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  gap: 10px;
+}
+
+.imgContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--cta-color);
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.infosContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  text-align: center;
+}
+.infosContainer h3 {
+  font-size: var(--fs-14);
+}
+.infosContainer p {
+  font-size: var(--fs-1);
+}
+
+@media (min-width: 768px) {
+  .whyUsContainer h2 {
+    font-size: var(--fs-24);
+  }
+  .featuresList {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+  }
+  .featureItem {
+    width: 45%;
+    min-height: 153px;
+    justify-content: flex-start;
+  }
+  .infosContainer h3 {
+    font-size: var(--fs-18);
+  }
+  .infosContainer p {
+    font-size: var(--fs-11);
+  }
+}
+@media (min-width: 1024px) {
+  .whyUsContainer h2 {
+    font-size: var(--fs-28);
+  }
+  .featuresList {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+  }
+  .featureItem {
+    width: 45%;
+    min-height: 166px;
+  }
+  .infosContainer h3 {
+    font-size: var(--fs-22);
+  }
+  .infosContainer p {
+    font-size: var(--fs-12);
+  }
+}
+@media (min-width: 1280px) {
+  .whyUsContainer h2 {
+    font-size: var(--fs-28);
+  }
+  .featuresList {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+  }
+  .featureItem {
+    width: 23%;
+    min-height: 240px;
+    justify-content: flex-start;
+  }
+  .infosContainer h3 {
+    font-size: var(--fs-22);
+  }
+  .infosContainer p {
+    font-size: var(--fs-13);
+  }
+}

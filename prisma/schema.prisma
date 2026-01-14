@@ -1,0 +1,41 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Review {
+  id         String   @id @default(cuid())
+  author     String
+  email      String?
+  rating     Int
+  content_fr String?
+  content_en String?
+  content_pt String?
+  locale     String   @default("fr")
+  approved   Boolean  @default(true)
+  visible    Boolean  @default(true)
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@index([rating])
+  @@index([locale])
+  @@index([approved, visible])
+}
+
+model ContactRequest {
+  id        String   @id @default(uuid())
+  firstName String
+  lastName  String
+  email     String
+  phone     String
+  company   String?
+  service   String
+  message   String
+  photoUrl  String?
+  consent   Boolean
+  createdAt DateTime @default(now())
+}

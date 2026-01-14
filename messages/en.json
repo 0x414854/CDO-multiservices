@@ -1,0 +1,750 @@
+{
+  "Navbar": {
+    "services": "Services",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "span": "Professional Cleaning",
+    "h1": "Professional Cleaning Services in Switzerland",
+    "h2": "CDO Multiservices – your trusted partner for a spotless environment",
+    "button_1": "Request a Quote",
+    "button_2": "Our Services",
+    "highlight_1": "Satisfied clients",
+    "highlight_2": "Years of experience",
+    "highlight_3": "Guaranteed satisfaction"
+  },
+  "Services": {
+    "title": "Our Services",
+    "subtitle": "Professional cleaning solutions tailored to your needs",
+    "button": "View all services",
+    "items": {
+      "general": {
+        "title": "General Cleaning",
+        "description": "Comprehensive cleaning services tailored to your home or business."
+      },
+      "windows": {
+        "title": "Window Cleaning",
+        "description": "Streak-free, crystal-clear windows for residential and commercial properties."
+      },
+      "offices": {
+        "title": "Office Cleaning",
+        "description": "Clean and organised offices for a healthy and productive work environment."
+      },
+      "concierge": {
+        "title": "Concierge Services",
+        "description": "Complete and reliable maintenance services for residential and commercial buildings."
+      },
+      "maid": {
+        "title": "Housekeeping Services",
+        "description": "Trusted and professional housekeeping for your everyday needs."
+      },
+      "spring": {
+        "title": "Spring Cleaning",
+        "description": "Deep cleaning services to refresh and revitalise your space."
+      },
+      "renovation": {
+        "title": "Post-Construction Cleaning",
+        "description": "Thorough removal of dust, debris and residues after renovation or construction work."
+      },
+      "lease": {
+        "title": "End of Lease Cleaning",
+        "description": "Immaculate results to ensure a smooth handover and inspection."
+      }
+    }
+  },
+  "WhyUs": {
+    "h2": "Why Choose CDO Multiservices?",
+    "items": {
+      "quality": {
+        "title": "Guaranteed Quality",
+        "description": "Professional equipment and eco-friendly cleaning products"
+      },
+      "experience": {
+        "title": "Proven Experience",
+        "description": "Years of expertise serving clients across Switzerland"
+      },
+      "certified": {
+        "title": "Fully Certified",
+        "description": "Insured, certified and fully compliant services"
+      },
+      "available": {
+        "title": "Reliable & Flexible",
+        "description": "Fast, responsive and flexible service tailored to your schedule"
+      }
+    }
+  },
+  "Reviews": {
+    "title": "Client Reviews",
+    "subtitle": "What our clients say about us",
+    "button": "View all reviews"
+  },
+  "Footer": {
+    "description": "CDO Multiservices – Professional cleaning experts across Switzerland",
+    "fr": "French",
+    "en": "English",
+    "pt": "Portuguese",
+    "h3_1": "Quick Links",
+    "services": "Services",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "about": "About Us",
+    "contact": "Contact",
+    "h3_2": "Legal",
+    "legalNotice": "Legal Notice",
+    "privacyPolicy": "Privacy Policy",
+    "h3_3": "Contact",
+    "days": "Mon–Sat: 8am–7pm",
+    "copyright": "© 2025 CDO Multiservices. All rights reserved",
+    "p": "Made with care by"
+  },
+  "ServicesPage": {
+    "title": "Our Services",
+    "subtitle": "Professional cleaning solutions designed to meet all your needs",
+
+    "generalCleaningTitle": "General Cleaning",
+    "generalCleaningDesc": "Regular and thorough cleaning services to ensure clean, healthy and pleasant spaces on a daily basis.",
+
+    "windowCleaningTitle": "Window Cleaning",
+    "windowCleaningDesc": "Perfectly clean, streak-free windows that allow natural light to shine through.",
+
+    "officeCleaningTitle": "Office Cleaning",
+    "officeCleaningDesc": "A clean and organised work environment to enhance comfort, well-being and productivity.",
+
+    "conciergeServiceTitle": "Concierge Services",
+    "conciergeServiceDesc": "Versatile support for the management of your premises, including light maintenance, small tasks and day-to-day assistance.",
+
+    "housekeeperTitle": "Housekeeping Services",
+    "housekeeperDesc": "Reliable and professional housekeeping services tailored to your everyday household needs.",
+
+    "springCleaningTitle": "Spring Cleaning",
+    "springCleaningDesc": "Deep and detailed cleaning services to refresh and revitalise your interior.",
+
+    "constructionCleaningTitle": "Post-Construction Cleaning",
+    "constructionCleaningDesc": "Comprehensive removal of dust, debris and residues after construction or renovation work.",
+
+    "endOfLeaseCleaningTitle": "End of Lease Cleaning",
+    "endOfLeaseCleaningDesc": "Impeccable cleaning to ensure a smooth handover and a successful property inspection."
+  },
+  "GeneralCleaningPage": {
+    "badge": "Professional Service",
+    "title": "General Cleaning",
+    "subtitle": "A clean, healthy and immaculate environment for your home or business premises.",
+    "primaryCta": "Request a Quote",
+    "secondaryCta": "View Our Services",
+    "imageAlt": "Professional general cleaning service",
+
+    "intro": {
+      "title": "Thorough and Reliable Cleaning",
+      "text": "Our general cleaning service is designed to keep your spaces clean, organised and pleasant on a daily basis. Whether for a house, apartment or commercial premises, our teams deliver meticulous and dependable results."
+    },
+
+    "services": {
+      "title": "What Our Service Includes",
+      "items": {
+        "surfaces": "Cleaning and disinfection of all surfaces",
+        "livingAreas": "Maintenance of living areas, bedrooms and offices",
+        "kitchen": "Complete kitchen cleaning",
+        "bathroom": "Complete cleaning of bathrooms and sanitary facilities",
+        "windows": "Interior cleaning of accessible windows and mirrors",
+        "furniture": "Cleaning of accessible furniture",
+        "details": "Attention to details and finishing touches",
+        "trash": "Waste management and disposal",
+        "floors": "Vacuuming and washing of all floors",
+        "airing": "Ventilation of rooms after service"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Professional Expertise",
+        "text": "Trained and experienced staff with close attention to detail."
+      },
+      "flexibility": {
+        "title": "Total Flexibility",
+        "text": "One-off or regular services tailored to your needs."
+      },
+      "eco": {
+        "title": "Responsible Products",
+        "text": "Use of effective, environmentally friendly cleaning products."
+      }
+    },
+
+    "final": {
+      "title": "Looking for spotless cleaning?",
+      "text": "Contact us today for a fast and personalised quote.",
+      "button": "Contact Us"
+    }
+  },
+  "OfficeCleaningPage": {
+    "title": "Office Cleaning",
+    "subtitle": "Clean, healthy and professional workspaces to support the well-being of your teams.",
+    "primaryCta": "Request a Quote",
+    "secondaryCta": "View Our Services",
+    "imageAlt": "Professional office cleaning service",
+
+    "intro": {
+      "title": "An Impeccable Work Environment",
+      "text": "We provide office cleaning services tailored to businesses of all sizes. Our teams deliver thorough and discreet cleaning to ensure a clean, healthy and pleasant working environment every day."
+    },
+
+    "services": {
+      "title": "What Our Service Includes",
+      "items": {
+        "surfaces": "Cleaning and disinfection of all surfaces",
+        "workspaces": "Maintenance of offices, open-plan workspaces and meeting rooms",
+        "kitchen": "Complete cleaning of kitchens and break areas",
+        "bathroom": "Complete cleaning of sanitary facilities",
+        "furniture": "Cleaning of accessible furniture and equipment",
+        "details": "Attention to details and finishing touches",
+        "trash": "Waste management and disposal",
+        "floors": "Vacuuming and washing of all floors",
+        "airing": "Ventilation of premises after service"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Professional Standards",
+        "text": "Teams trained to meet the specific requirements of professional environments."
+      },
+      "flexibility": {
+        "title": "Flexible Scheduling",
+        "text": "Services adapted to your constraints: early morning, daytime or evening."
+      },
+      "confidentiality": {
+        "title": "Discretion and Confidentiality",
+        "text": "Full respect for your premises, documents and professional equipment."
+      }
+    },
+
+    "final": {
+      "title": "A Clean Office Reflects a Professional Image",
+      "text": "Contact us for a personalised quote and a cleaning service tailored to your business.",
+      "button": "Contact Us"
+    }
+  },
+  "ConstructionCleaningPage": {
+    "title": "Post-Construction Cleaning",
+    "subtitle": "Thorough cleaning after construction or renovation to make your spaces ready for use or handover.",
+    "primaryCta": "Request a Quote",
+    "secondaryCta": "View Our Services",
+    "imageAlt": "Professional post-construction cleaning service",
+
+    "intro": {
+      "title": "Professional Cleaning After Construction",
+      "text": "Our post-construction cleaning service efficiently removes dust, debris, and residues left behind after building or renovation work. We prepare your spaces for immediate use or smooth handover."
+    },
+
+    "services": {
+      "title": "What Our Service Includes",
+      "items": {
+        "debris": "Removal of debris, dust, and construction waste",
+        "surfaces": "Cleaning and degreasing of all surfaces",
+        "rooms": "Comprehensive cleaning of all rooms",
+        "windows": "Cleaning of windows, frames, and glass surfaces",
+        "details": "Attention to details and finishing touches",
+        "trash": "Waste management and disposal",
+        "floors": "Deep vacuuming and washing of all floors",
+        "airing": "Complete ventilation of the premises after cleaning"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Construction Expertise",
+        "text": "Teams trained to meet the specific requirements of post-construction cleaning."
+      },
+      "equipment": {
+        "title": "Professional Equipment",
+        "text": "Use of equipment and products specifically suited for construction residues."
+      },
+      "deadlines": {
+        "title": "Deadline Compliance",
+        "text": "Fast interventions to ensure timely handover or operational readiness."
+      }
+    },
+
+    "final": {
+      "title": "Spaces Ready for Use",
+      "text": "Entrust us with your post-construction cleaning for impeccable, professional results.",
+      "button": "Contact Us"
+    }
+  },
+
+  "EndOfLeaseCleaningPage": {
+    "title": "End-of-Tenancy Cleaning",
+    "subtitle": "Complete, thorough cleaning to return your property in pristine condition.",
+    "primaryCta": "Request a Quote",
+    "secondaryCta": "View Our Services",
+    "imageAlt": "Professional end-of-tenancy cleaning service",
+
+    "intro": {
+      "title": "Cleaning That Meets Return Requirements",
+      "text": "End-of-tenancy cleaning is a crucial step during a move. We carry out deep cleaning to ensure the property meets the standards expected by landlords and real estate agencies."
+    },
+
+    "services": {
+      "title": "What Our Service Includes",
+      "items": {
+        "surfaces": "Cleaning and disinfecting of all surfaces",
+        "rooms": "Comprehensive cleaning of all rooms",
+        "kitchen": "Complete kitchen cleaning",
+        "bathroom": "Complete cleaning of bathrooms and sanitary areas",
+        "windows": "Interior cleaning of windows and mirrors",
+        "furniture": "Cleaning of accessible furniture and equipment",
+        "details": "Attention to details and finishing touches",
+        "trash": "Waste management and disposal",
+        "floors": "Deep vacuuming and washing of all floors",
+        "airing": "Ventilation of rooms after cleaning"
+      }
+    },
+
+    "values": {
+      "guarantee": {
+        "title": "Guaranteed Results",
+        "text": "Cleaning performed to the standards expected for property handovers."
+      },
+      "thorough": {
+        "title": "Deep Cleaning",
+        "text": "Every space is treated with care for flawless results."
+      },
+      "flexibility": {
+        "title": "Flexible and Responsive",
+        "text": "Quick intervention tailored to your move-out schedule."
+      }
+    },
+
+    "final": {
+      "title": "Move Out Stress-Free",
+      "text": "Entrust us with your end-of-tenancy cleaning for a smooth, worry-free handover.",
+      "button": "Contact Us"
+    }
+  },
+  "WindowCleaningPage": {
+    "title": "Window Cleaning",
+    "subtitle": "Spotless windows, whether for your home or professional premises.",
+    "primaryCta": "Request a Quote",
+    "secondaryCta": "View Our Services",
+    "imageAlt": "Professional window cleaning service",
+
+    "intro": {
+      "title": "Professional and Comprehensive Window Cleaning",
+      "text": "We provide window cleaning for all types of buildings: houses, apartments, and commercial spaces. Our teams use the most effective techniques and products to ensure a streak-free finish."
+    },
+
+    "services": {
+      "title": "What Our Service Includes",
+      "items": {
+        "internal": "Interior window cleaning",
+        "external": "Exterior window cleaning (safely accessible)",
+        "frames": "Cleaning of frames and edges",
+        "sills": "Cleaning of sills and ledges",
+        "accessories": "Dusting of nearby blinds and accessories",
+        "commercialExtra": "For commercial spaces: high windows and shopfronts accessible with lifts or professional ladders"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Expertise",
+        "text": "Technicians trained in window cleaning techniques, including work at height if needed."
+      },
+      "safety": {
+        "title": "Safety",
+        "text": "Strict adherence to safety standards for working at heights."
+      },
+      "eco": {
+        "title": "Eco-Friendly Products",
+        "text": "Use of environmentally safe products that leave no streaks."
+      }
+    },
+
+    "final": {
+      "title": "Sparkling Windows, Safely",
+      "text": "Entrust us with your windows for a flawless result, at home or in your professional spaces.",
+      "button": "Contact Us"
+    }
+  },
+
+  "SpringCleaningPage": {
+    "title": "Spring Cleaning",
+    "subtitle": "A thorough cleaning to refresh your home or apartment for the new season.",
+    "primaryCta": "Request a Quote",
+    "secondaryCta": "View Our Services",
+    "imageAlt": "Spring cleaning service",
+
+    "intro": {
+      "title": "Restore Brightness and Freshness to Your Home",
+      "text": "Spring cleaning is the perfect opportunity to deep-clean every room, remove accumulated dust, and prepare your home for the new season. We work carefully and efficiently to achieve impeccable results."
+    },
+
+    "services": {
+      "title": "What Our Service Includes",
+      "items": {
+        "surfaces": "Cleaning and disinfecting of all surfaces",
+        "rooms": "Complete maintenance of living areas and bedrooms",
+        "kitchen": "Full kitchen cleaning",
+        "bathroom": "Complete cleaning of bathrooms and sanitary areas",
+        "windows": "Interior cleaning of accessible windows and mirrors",
+        "furniture": "Dusting and cleaning of furniture",
+        "details": "Attention to details and finishing touches",
+        "trash": "Waste management and disposal",
+        "floors": "Deep vacuuming and washing of floors",
+        "airing": "Complete ventilation of all rooms"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Care and Attention",
+        "text": "Qualified teams that take care of every space and detail."
+      },
+      "flexibility": {
+        "title": "Flexible Scheduling",
+        "text": "We adapt to your timetable to clean when it suits you best."
+      },
+      "eco": {
+        "title": "Eco-Friendly Products",
+        "text": "Use of environmentally safe products for a thorough and safe cleaning."
+      }
+    },
+
+    "final": {
+      "title": "Bring New Shine to Your Home",
+      "text": "Contact us for a complete spring cleaning and a refreshed interior.",
+      "button": "Contact Us"
+    }
+  },
+  "ConciergeServicePage": {
+    "title": "Concierge Service",
+    "subtitle": "Personalized services for your home or professional spaces, tailored to your needs.",
+    "primaryCta": "Request a Quote",
+    "secondaryCta": "View Our Services",
+    "imageAlt": "Professional concierge service",
+
+    "intro": {
+      "title": "A Complete, Tailored Service",
+      "text": "Our concierge service allows you to delegate cleaning, errands, organization, and other daily tasks. We work carefully and discreetly to make your life easier."
+    },
+
+    "services": {
+      "title": "What Our Service Includes",
+      "items": {
+        "cleaning": "Regular cleaning and maintenance of spaces",
+        "errands": "Errands and small tasks",
+        "organizing": "Organization and management of spaces",
+        "laundry": "Ironing and laundry management",
+        "furniture": "Maintenance of furniture and accessible surfaces",
+        "details": "Finishing touches and quality checks",
+        "trash": "Waste management and disposal",
+        "airing": "Ventilation of rooms after service"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Professionalism",
+        "text": "Trained and experienced concierges ready to meet your needs."
+      },
+      "flexibility": {
+        "title": "Flexibility",
+        "text": "Services adapted to your schedule and requirements."
+      },
+      "discretion": {
+        "title": "Discretion",
+        "text": "Complete respect for your privacy and belongings."
+      }
+    },
+
+    "final": {
+      "title": "Simplify Your Daily Life",
+      "text": "Contact us for a tailored concierge service and enjoy a perfectly maintained space effortlessly.",
+      "button": "Contact Us"
+    }
+  },
+
+  "HousekeeperPage": {
+    "title": "Housekeeping",
+    "subtitle": "Regular, customized housekeeping for your home.",
+    "primaryCta": "Request a Quote",
+    "secondaryCta": "View Our Services",
+    "imageAlt": "Professional housekeeping service",
+
+    "intro": {
+      "title": "A Home Always in Perfect Order",
+      "text": "Our housekeeping services keep your home or apartment clean and organized on a regular basis. Our staff ensures meticulous cleaning while respecting your home."
+    },
+
+    "services": {
+      "title": "What Our Service Includes",
+      "items": {
+        "surfaces": "Cleaning and disinfecting all surfaces",
+        "rooms": "Complete maintenance of living areas and bedrooms",
+        "kitchen": "Full kitchen cleaning",
+        "bathroom": "Complete cleaning of bathrooms and sanitary areas",
+        "furniture": "Dusting and cleaning of furniture",
+        "details": "Finishing touches and quality control",
+        "trash": "Waste management and disposal",
+        "floors": "Vacuuming and washing floors",
+        "airing": "Complete ventilation of all rooms"
+      }
+    },
+
+    "values": {
+      "expertise": {
+        "title": "Professionalism",
+        "text": "Qualified staff trained to residential cleaning standards."
+      },
+      "trust": {
+        "title": "Trust",
+        "text": "Reliable service with full respect for your privacy and belongings."
+      },
+      "flexibility": {
+        "title": "Flexibility",
+        "text": "Services adapted to your schedule and needs."
+      }
+    },
+
+    "final": {
+      "title": "A Clean Home, Effortlessly",
+      "text": "Contact us for regular or occasional housekeeping, tailored to your home.",
+      "button": "Contact Us"
+    }
+  },
+
+  "ContactPage": {
+    "title": "Contact Us",
+    "subtitle": "Request your free quote",
+    "altPhoneIcon": "Phone icon - CDO Multiservices Switzerland",
+    "phoneTitle": "Phone",
+    "altMailIcon": "Email icon - CDO Multiservices Switzerland",
+    "mailTitle": "Email",
+    "altMapIcon": "Map icon - CDO Multiservices Switzerland",
+    "addressTitle": "Address",
+    "upload": "Choose a file (max 5MB)",
+    "firstName": "First Name*",
+    "lastName": "Last Name*",
+    "email": "Email*",
+    "phone": "Phone*",
+    "corporation": "Company (optional)",
+    "service": "Requested Service*",
+    "selectService": "Select a service",
+    "servicesList": {
+      "general": "General Cleaning",
+      "windows": "Window Cleaning",
+      "office": "Office Cleaning",
+      "concierge": "Concierge Service",
+      "maid": "Housekeeping Service",
+      "spring": "Spring Cleaning",
+      "construction": "Post-Construction Cleaning",
+      "endOfLease": "End-of-Tenancy Cleaning"
+    },
+    "message": "Your Message*",
+    "legalCheck": "I agree to have my data used to be contacted*",
+    "send": "Send Message",
+    "errorFirstName": "Please enter your first name.",
+    "errorLastName": "Please enter your last name.",
+    "errorEmail": "Please enter a valid email address.",
+    "errorPhone": "Please enter your phone number.",
+    "errorService": "Please select a service.",
+    "errorMessage": "Please enter a message.",
+    "errorConsent": "You must accept the terms."
+  },
+  "GalleryPage": {
+    "title": "Before / After Gallery",
+    "subtitle": "Discover the quality of our work",
+    "title_image_1": "Storage cabinet cleaning",
+    "title_image_2": "Kitchen cleaning",
+    "title_image_3": "Oven cleaning",
+    "title_image_4": "Storage cabinet cleaning"
+  },
+  "AboutPage": {
+    "title": "About CDO Multiservices",
+    "subtitle": "Your trusted partner for a spotless environment since 2008",
+    "history_title": "Our Story",
+    "history_1": "Founded in 2025, CDO Multiservices was born from a passion for delivering exceptional cleaning services across Switzerland. Our dedicated team is committed to maintaining the highest standards of cleanliness and professionalism.",
+    "history_2": "Over the years, we have developed deep expertise in residential, commercial, and industrial cleaning while staying true to our core values: quality, reliability, and customer satisfaction.",
+    "history_3": "Today, we proudly serve over 500 satisfied clients across Switzerland with a team of qualified professionals and state-of-the-art equipment.",
+    "value_title": "Our Values",
+    "value_1": "Excellence",
+    "value_desc_1": "We strive for excellence in every project, using the best practices and equipment.",
+    "value_2": "Qualified Team",
+    "value_desc_2": "Our team is trained in the latest cleaning techniques and safety standards.",
+    "value_3": "Environmental Commitment",
+    "value_desc_3": "We use eco-friendly products to protect your health and the planet.",
+    "cta_title": "Ready to Transform Your Space?",
+    "cta_descr": "Contact us today for a free quote and experience the CDO Multiservices difference.",
+    "cta_button": "Request a Quote"
+  },
+  "ReviewsPage": {
+    "title": "Customer Reviews",
+    "subtitle": "What our clients say about us",
+    "button": "Add a Review"
+  },
+  "LegalNotices": {
+    "title": "Legal Notice",
+    "update": "Last update: January 2026",
+    "titleSection_1": "1 - Legal Information",
+    "phone": "Tel.",
+    "contributors": "Other Contributors",
+    "titleSection_2": "2 - Hosting Provider",
+    "website": "Website",
+    "titleSection_3": "3 - Intellectual Property",
+    "section_3_strong": "CDO Multiservices Sàrl",
+    "section_3_1": "owns the intellectual property rights and holds the usage rights for all elements accessible on the website, including texts, images, graphics, logos, videos, architecture, icons, and sounds.",
+    "section_3_2": "Any reproduction, representation, modification, publication, or adaptation of all or part of the elements of the site, by any means or process, is prohibited, except with prior written authorization from",
+    "section_3_3": "Any unauthorized use of the website or any of its elements will be considered an infringement and prosecuted.",
+    "titleSection_4": "4 - Liability",
+    "section_4_1": "cannot be held responsible for direct or indirect damage to the user's equipment during access to the website",
+    "websiteUrl": "https://www.cdo-multiservices.ch",
+    "section_4_2": "declines all responsibility for the use that may be made of the information and content present on the website.",
+    "section_4_3_1": "Despite all care taken in the drafting and updating of content,",
+    "section_4_3_2": "cannot be held responsible for possible errors or omissions on the website. The site may be suspended or interrupted without notice in case of maintenance or technical issues.",
+    "section_4_4": "commits to securing the website as best as possible. However, its liability cannot be engaged in case of:",
+    "section_4_4_1": "Force majeure (natural events, disasters, strikes, unforeseen legal or regulatory incidents);",
+    "section_4_4_2": "Server or network malfunction or unavailability;",
+    "section_4_4_3": "Intrusion, hacking, or malicious actions by a third party affecting the website or its data;",
+    "section_4_4_4": "Import or installation of unwanted data on the website without authorization.",
+    "section_4_5": "Use of the website is at the sole responsibility of the user.",
+    "titleSection_5": "5 - External Links",
+    "section_5_1": "The website",
+    "section_5_2": "may contain hyperlinks to other websites operated by third parties. These links are provided for information purposes only.",
+    "section_5_3": "has no control over the content, accuracy, legality, or availability of these external sites and cannot be held responsible for direct or indirect damages resulting from access or use of these third-party resources.",
+    "section_5_4": "The inclusion of such links does not imply any approval or association of",
+    "section_5_5": "with the operators of these sites. Users are encouraged to consult the terms of use and privacy policies applicable to each third-party site before browsing or interacting.",
+    "titleSection_6": "6 - Personal Data Protection",
+    "section_6_1": "Personal data collected via this website (notably through the contact form, quote requests, or any electronic contact) is processed exclusively by",
+    "section_6_1_1": "and only for the following purposes:",
+    "section_6_2_1": "management and follow-up of contact and quote requests;",
+    "section_6_2_2": "communication with users;",
+    "section_6_2_3": "management of the business relationship;",
+    "section_6_2_4": "improvement of the website and user experience.",
+    "section_6_3": "Personal data processing is carried out in accordance with the Swiss Federal Act on Data Protection (FADP) and its implementing ordinance.",
+    "subtitleSection_6": "Rights of Data Subjects",
+    "section_6_4": "In accordance with the FADP, data subjects have the following rights:",
+    "section_6_4_1": "right to access their personal data;",
+    "section_6_4_2": "right to rectify inaccurate or incomplete data;",
+    "section_6_4_3": "right to request deletion of data, within the limits provided by law;",
+    "section_6_4_4": "right to object to the processing of their data for legitimate reasons;",
+    "section_6_4_5": "right to object to the processing of their data for legitimate reasons;",
+    "section_6_5": "Requests regarding the exercise of these rights can be sent to:",
+    "subtitleSection_6_1": "Data Retention Period",
+    "section_6_6": "Personal data is retained only for as long as necessary to achieve the purposes for which it was collected, except where a longer retention period is legally or regulatory required.",
+    "subtitleSection_6_2": "Additional Information",
+    "section_6_7": "For more information on the collection, use, and protection of your personal data, please consult our",
+    "section_6_7_1": ", available on the website.",
+    "titleSection_7": "7 - Cookies",
+    "section_7_1": "The website",
+    "section_7_2": "uses cookies and similar technologies to ensure proper functioning, improve user experience, and analyze website usage.",
+    "subtitleSection_7_1": "Types of Cookies Used",
+    "section_7_3": "Depending on activated features, the website may use the following categories of cookies:",
+    "section_7_3_1": "Strictly Necessary Cookies",
+    "section_7_3_1_1": "Essential for the operation and security of the site (navigation, access to forms, storage of technical preferences).",
+    "section_7_3_2": "Performance and Analytics Cookies",
+    "section_7_3_2_1": "Provide anonymized statistics on site traffic and usage to improve content and performance.",
+    "section_7_3_3": "Functional Cookies",
+    "section_7_3_3_1": "Store certain user preferences to enhance the browsing experience.",
+    "subtitleSection_7_2": "Consent",
+    "section_7_4": "On your first visit, an information banner allows you to accept, refuse, or set preferences for non-essential cookies, in accordance with the Swiss Federal Act on Data Protection (FADP).",
+    "section_7_4_1": "You can modify your preferences or withdraw consent at any time via your browser settings or the cookie management tools provided on the site.",
+    "subtitleSection_7_3": "Retention Period",
+    "section_7_5": "Cookies are stored for a limited duration, proportionate to their purpose, not exceeding the periods allowed by applicable law.",
+    "subtitleSection_7_4": "Additional Information",
+    "section_7_6": "For more information on cookie usage and associated data processing, please consult our",
+    "section_7_6_1": ", available on the website.",
+    "titleSection_8": "8 - Applicable Law and Jurisdiction",
+    "section_8": "These legal notices are governed by Swiss law.",
+    "section_8_1": "In case of a dispute, the courts of the Canton of Geneva shall have exclusive jurisdiction, subject to mandatory legal provisions to the contrary."
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "update": "Last update: January 2026",
+    "titleSection_1": "1 – Introduction",
+    "section_1_1": "The website",
+    "section_1_1_1": "CDO Multiservices",
+    "websiteUrl": "https://www.cdo-multiservices.ch",
+    "section_1_1_2": "is operated by CDO Multiservices Sàrl, a company based in Geneva, Switzerland, which acts as the data controller within the meaning of the Swiss Federal Act on Data Protection (FADP).",
+    "section_1_2": "This privacy policy explains how we collect, use, and protect the personal data of users of our website. By using this site, you agree to the practices described in this policy.",
+    "section_1_3": "We attach great importance to the protection of your personal data and are committed to processing it confidentially and securely.",
+    "titleSection_2": "2 – Personal Data Collected",
+    "subtitleSection_2": "Automatically Collected Data",
+    "section_2": "During your visit to our website, certain information may be collected automatically, including:",
+    "section_2_1": "IP address",
+    "section_2_2": "browser type and version",
+    "section_2_3": "operating system",
+    "section_2_4": "pages visited",
+    "section_2_5": "date and time of visit",
+    "section_2_6": "cookies and similar technologies",
+    "section_2_7": "These data are used for statistical, security, and site improvement purposes.",
+    "subtitleSection_2_1": "Voluntarily Provided Data",
+    "section_2_1_1": "When you use our contact form, we may collect the following data:",
+    "section_2_1_2": "first and last name",
+    "section_2_1_3": "email address",
+    "section_2_1_4": "email address",
+    "section_2_1_5": "company name",
+    "section_2_1_6": "requested service",
+    "section_2_1_7": "content of your message",
+    "section_2_1_8": "These data are voluntarily provided by the user.",
+    "titleSection_3": "3 – Purpose of Processing",
+    "section_3": "Personal data is processed exclusively for the following purposes:",
+    "section_3_1": "responding to requests submitted via the contact form",
+    "section_3_2": "communicating with users",
+    "section_3_3": "ensuring proper operation and security of the website",
+    "section_3_4": "producing anonymized site usage statistics",
+    "section_3_5": "complying with legal obligations",
+    "section_3_6": "We only collect data strictly necessary for these purposes (data minimization principle – art. 6 FADP).",
+    "titleSection_4": "4 – Legal Basis for Processing",
+    "section_4": "The processing of personal data is based on:",
+    "section_4_1": "user consent (contact form, cookies)",
+    "section_4_2": "the legitimate interest of the data controller (site security, technical operation)",
+    "section_4_3": "applicable legal obligations in Switzerland",
+    "titleSection_5": "5 – Cookies",
+    "section_5": "Our website uses cookies to improve the user experience and analyze site usage.",
+    "section_5_1": "Cookies may be:",
+    "section_5_1_1": "technical (necessary for the website’s operation)",
+    "section_5_1_2": "analytical (traffic statistics)",
+    "section_5_2": "You can configure your browser at any time to refuse or delete cookies.",
+    "section_5_3": "Refusing certain cookies may, however, affect the proper functioning of the website.",
+    "titleSection_6": "6 – Data Retention",
+    "section_6": "Personal data is retained only for as long as necessary to fulfill the purposes for which it was collected:",
+    "section_6_1": "data from contact forms: duration of request processing, then limited archiving",
+    "section_6_2": "technical and statistical data: limited duration or anonymization",
+    "titleSection_7": "7 – Rights of Data Subjects",
+    "section_7": "In accordance with the FADP, you have the following rights:",
+    "section_7_1": "right to access your personal data",
+    "section_7_2": "right to rectify inaccurate data",
+    "section_7_3": "right to erasure, where legally possible",
+    "section_7_4": "right to object to processing",
+    "section_7_5": "right to request restriction of processing",
+    "section_7_6": "To exercise your rights, you can contact us at the following address:",
+    "titleSection_8": "8 – Sharing Data with Third Parties",
+    "section_8": "Your personal data is neither sold, rented, nor shared with third parties, except for:",
+    "section_8_1": "legal obligation",
+    "section_8_2": "technical service providers strictly necessary for site operation (hosting, maintenance), bound by confidentiality obligations",
+    "titleSection_9": "9 – Data Security",
+    "section_9": "We implement appropriate technical and organizational measures to protect your data against unauthorized access, loss, alteration, or disclosure.",
+    "section_9_1": "However, no data transmission over the Internet can be guaranteed as completely secure.",
+    "titleSection_10": "10 – Links to Third-Party Websites",
+    "section_10": "Our website may contain links to third-party websites. We have no control over these sites and disclaim all responsibility for their data protection practices.",
+    "titleSection_11": "11 – Policy Changes",
+    "section_11": "We reserve the right to modify this privacy policy at any time. The current version is the one published on the website at the date indicated at the top of the page.",
+    "titleSection_12": "12 – Contact",
+    "section_12": "For any questions regarding this privacy policy or the processing of your personal data, you can contact us at the following address:"
+  },
+  "ReviewFormPage": {
+    "title": "Leave a review",
+    "subtitle": "Your feedback is valuable and helps us improve our services every day.",
+    "name": "Your name",
+    "mail": "Your email",
+    "note": "Your rating",
+    "review": "Share your experience with CDO Multiservices...",
+    "submit": "Submit my review",
+    "loading": "Sending...",
+    "send": "Thank you for your review! It will be published after validation.",
+    "error": "An error occurred. Please try again.",
+    "legal_1": "By submitting this form, you agree that your data will be processed in accordance with our"
+  }
+}

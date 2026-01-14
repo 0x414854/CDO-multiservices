@@ -1,0 +1,355 @@
+.aboutPage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem 0 4rem 0;
+  gap: 3rem;
+  /* background: linear-gradient(
+    180deg,
+    rgba(19, 108, 108, 1) 0%,
+    rgba(255, 255, 255, 1) 70%
+  ); */
+}
+.titleSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 90%;
+  text-align: center;
+  gap: 1rem;
+  margin: 0 auto 1rem auto;
+}
+.titleSection h1 {
+  font-size: var(--fs-26);
+}
+.titleSection span {
+  font-size: var(--fs-1);
+  color: var(--cta-color);
+  opacity: 0.8;
+}
+.historyContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 90%;
+  margin: 0 auto;
+}
+.valueContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  background: linear-gradient(
+    135deg,
+    rgba(19, 108, 108, 0.6) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+  /* background: rgba(0, 0, 0, 0.06); */
+  padding: 1rem 0 1rem 0;
+}
+.historyContainer h2,
+.valueContainer h2 {
+  font-size: var(--fs-18);
+}
+.valueContainer h2 {
+  width: 90%;
+  margin: 3rem auto 2rem auto;
+  text-align: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+.histories {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+}
+.history {
+  font-size: var(--fs-1);
+  color: var(--black);
+  opacity: 0.8;
+}
+.img {
+  width: 100%;
+  border-radius: 20px;
+}
+.values {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  width: 90%;
+  margin: 0 auto 3rem auto;
+}
+.value {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1.5rem;
+  /* box-shadow: 0 0 10px black; */
+  border: none;
+  border-radius: 20px;
+  background: var(--white);
+}
+.value h3 {
+  font-size: var(--fs-14);
+}
+.value p {
+  font-size: var(--fs-1);
+}
+.ctaContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 90%;
+  margin: 1rem auto;
+  gap: 2rem;
+  padding: 2rem;
+  background: var(--cta-color);
+  border-radius: 20px;
+  color: var(--white);
+}
+.ctaContainer h2 {
+  font-size: var(--fs-18);
+  text-align: center;
+}
+.ctaContainer p {
+  font-size: var(--fs-125);
+  text-align: center;
+  line-height: 1.75rem;
+}
+.ctaContainer a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  height: 50px;
+  border-radius: 20px;
+  padding: 1rem;
+  background: var(--white);
+  border: 1px solid transparent;
+  transition: all 0.3s ease-in-out;
+}
+.ctaContainer a button {
+  background: none;
+  border: none;
+  color: var(--cta-color);
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+  font-size: var(--fs-1);
+}
+.ctaContainer a:hover {
+  background: transparent;
+  border: 1px solid var(--white);
+  color: var(--cta-color);
+  transition: all 0.3s ease-in-out;
+}
+.ctaContainer a:hover button {
+  color: var(--white);
+  transition: all 0.3s ease-in-out;
+}
+
+@media (min-width: 768px) {
+  .titleSection {
+    width: 81%;
+  }
+  .titleSection h1 {
+    font-size: var(--fs-28);
+  }
+  .titleSection span {
+    font-size: var(--fs-11);
+  }
+  .historyContainer h2,
+  .valueContainer h2 {
+    font-size: var(--fs-2);
+  }
+  .historyContainer h2 {
+    width: 90%;
+    margin: 0 auto;
+  }
+  /* .container {
+    flex-direction: row;
+  }
+  .histories {
+    width: 48%;
+  }
+  .img {
+    width: 48%;
+  } */
+  .histories {
+    width: 90%;
+    margin-bottom: 2rem;
+  }
+  .img {
+    width: 81%;
+  }
+  .history {
+    font-size: var(--fs-11);
+  }
+  .value {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .value h3 {
+    font-size: var(--fs-16);
+  }
+  .value p {
+    font-size: var(--fs-11);
+  }
+  .ctaContainer {
+    width: 81%;
+  }
+  .ctaContainer h2 {
+    font-size: var(--fs-2);
+  }
+  .ctaContainer p {
+    font-size: var(--fs-145);
+  }
+  .ctaContainer a button {
+    font-size: var(--fs-11);
+  }
+  .ctaContainer a {
+    width: 40%;
+  }
+}
+@media (min-width: 912px) {
+  .valueContainer {
+    width: 100%;
+  }
+  .values {
+    width: 81%;
+  }
+  .value {
+    width: 100%;
+  }
+  .ctaContainer {
+    width: 81%;
+  }
+}
+
+@media (min-width: 1024px) {
+  .titleSection {
+    width: 81%;
+  }
+  .titleSection h1 {
+    font-size: var(--fs-3);
+  }
+  .titleSection span {
+    font-size: var(--fs-12);
+  }
+  .historyContainer {
+    margin: 3rem auto;
+  }
+  .historyContainer h2,
+  .valueContainer h2 {
+    font-size: var(--fs-22);
+  }
+  .historyContainer h2 {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .container {
+    width: 90%;
+    flex-direction: row;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .histories {
+    width: 48%;
+    margin-bottom: 0;
+  }
+  .img {
+    width: 48%;
+    height: 400px;
+  }
+  .history {
+    font-size: var(--fs-12);
+  }
+  .valueContainer {
+    padding: 3rem 0 3rem 0;
+  }
+  .values {
+    flex-direction: row;
+  }
+  .value {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .value h3 {
+    font-size: var(--fs-18);
+  }
+  .value p {
+    font-size: var(--fs-12);
+  }
+  .ctaContainer {
+    margin: 3rem auto;
+  }
+  .ctaContainer h2 {
+    font-size: var(--fs-22);
+  }
+  .ctaContainer {
+    width: 81%;
+  }
+  .ctaContainer img {
+    width: 60px;
+    height: 60px;
+  }
+  .ctaContainer a button {
+    font-size: var(--fs-12);
+  }
+  .ctaContainer a {
+    width: 40%;
+  }
+}
+
+@media (min-width: 1280px) {
+  .titleSection {
+    width: 81%;
+  }
+  .titleSection h1 {
+    font-size: var(--fs-32);
+  }
+  .titleSection span {
+    font-size: var(--fs-13);
+  }
+  .historyContainer h2,
+  .valueContainer h2 {
+    font-size: var(--fs-24);
+  }
+  .history {
+    font-size: var(--fs-13);
+  }
+  .value img {
+    width: 50px;
+    height: 50px;
+  }
+  .value h3 {
+    font-size: var(--fs-2);
+  }
+  .value p {
+    font-size: var(--fs-13);
+  }
+  .ctaContainer img {
+    width: 80px;
+    height: 80px;
+  }
+  .ctaContainer h2 {
+    font-size: var(--fs-24);
+  }
+
+  .ctaContainer a button {
+    font-size: var(--fs-13);
+  }
+  .ctaContainer a {
+    width: 40%;
+  }
+}
