@@ -563,7 +563,7 @@
   },
   "AboutPage": {
     "title": "About CDO Multiservices",
-    "subtitle": "Your trusted partner for a spotless environment since 2008",
+    "subtitle": "Your trusted partner for a spotless environment since 2025",
     "history_title": "Our Story",
     "history_1": "Founded in 2025, CDO Multiservices was born from a passion for delivering exceptional cleaning services across Switzerland. Our dedicated team is committed to maintaining the highest standards of cleanliness and professionalism.",
     "history_2": "Over the years, we have developed deep expertise in residential, commercial, and industrial cleaning while staying true to our core values: quality, reliability, and customer satisfaction.",
@@ -657,7 +657,8 @@
     "section_7_6_1": ", available on the website.",
     "titleSection_8": "8 - Applicable Law and Jurisdiction",
     "section_8": "These legal notices are governed by Swiss law.",
-    "section_8_1": "In case of a dispute, the courts of the Canton of Geneva shall have exclusive jurisdiction, subject to mandatory legal provisions to the contrary."
+    "section_8_1": "In case of a dispute, the courts of the Canton of Geneva shall have exclusive jurisdiction, subject to mandatory legal provisions to the contrary.",
+    "politic": "Privacy Policy"
   },
   "PrivacyPolicy": {
     "title": "Privacy Policy",
@@ -745,6 +746,7 @@
     "loading": "Sending...",
     "send": "Thank you for your review! It will be published after validation.",
     "error": "An error occurred. Please try again.",
-    "legal_1": "By submitting this form, you agree that your data will be processed in accordance with our"
+    "legal_1": "By submitting this form, you agree that your data will be processed in accordance with our",
+    "legal_2": "Privacy Policy"
   }
 }

@@ -51,8 +51,8 @@ export default function Hero() {
   const t = useTranslations("Hero");
 
   const highlights = [
-    { number: 11, label: t("highlight_1"), suffix: "+" },
-    { number: 15, label: t("highlight_2"), suffix: "+" },
+    { number: 35, label: t("highlight_1"), suffix: "+" },
+    { number: 20, label: t("highlight_2"), suffix: "+" },
     { number: 100, label: t("highlight_3"), suffix: "%" },
   ];
 

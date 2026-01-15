@@ -560,7 +560,7 @@
   },
   "AboutPage": {
     "title": "À propos de CDO Multiservices",
-    "subtitle": "Votre partenaire de confiance pour un environnement impeccable depuis 2008",
+    "subtitle": "Votre partenaire de confiance pour un environnement impeccable depuis 2025",
     "history_title": "Notre histoire",
     "history_1": "Fondée en 2025, CDO Multiservices est née de la passion de fournir des services de nettoyage exceptionnels à travers la Suisse. Notre équipe dévouée s'engage à maintenir les plus hauts standards de propreté et de professionnalisme.",
     "history_2": "Au fil des années, nous avons développé une expertise approfondie dans le nettoyage résidentiel, commercial et industriel, tout en restant fidèles à nos valeurs fondamentales : qualité, fiabilité et satisfaction client.",
@@ -654,7 +654,8 @@
     "section_7_6_1": ", accessible depuis le site.",
     "titleSection_8": "8 - Droit applicable et for juridique",
     "section_8": "Les présentes mentions légales sont soumises au droit suisse.",
-    "section_8_1": "En cas de litige, les tribunaux du canton de Genève sont seuls compétents, sous réserve de dispositions légales impératives contraires."
+    "section_8_1": "En cas de litige, les tribunaux du canton de Genève sont seuls compétents, sous réserve de dispositions légales impératives contraires.",
+    "politic": "Politique de confidentialité"
   },
   "PrivacyPolicy": {
     "title": "Politique de confidentialité",
