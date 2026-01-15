@@ -393,7 +393,9 @@
         "details": "Attention to details and finishing touches",
         "trash": "Waste management and disposal",
         "floors": "Deep vacuuming and washing of floors",
-        "airing": "Complete ventilation of all rooms"
+        "airing": "Complete ventilation of all rooms",
+        "terrace": "Cleaning of terraces (tiles, slabs, wood)",
+        "balcony": "Cleaning and maintenance of balconies"
       }
     },
 

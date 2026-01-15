@@ -392,7 +392,9 @@
         "details": "Nettoyage des détails et finitions",
         "trash": "Gestion et évacuation des déchets",
         "floors": "Aspiration et lavage approfondi des sols",
-        "airing": "Aération complète des pièces"
+        "airing": "Aération complète des pièces",
+        "terrace": "Nettoyage des terrasses (carrelage, dalles, bois)",
+        "balcony": "Nettoyage et entretien des balcons"
       }
     },
 

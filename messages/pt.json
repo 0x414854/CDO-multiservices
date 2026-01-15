@@ -392,7 +392,9 @@
         "details": "Limpeza de detalhes e acabamentos",
         "trash": "Gestão e remoção de resíduos",
         "floors": "Aspiração e lavagem profunda dos pisos",
-        "airing": "Aeração completa dos ambientes"
+        "airing": "Aeração completa dos ambientes",
+        "terrace": "Limpeza de terraços (azulejos, lajes, madeira)",
+        "balcony": "Limpeza e manutenção de varandas"
       }
     },
 
