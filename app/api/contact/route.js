@@ -68,7 +68,7 @@ export async function POST(req) {
     // SEND EMAIL
     await resend.emails.send({
       from: "Site CDO <onboarding@resend.dev>",
-      to: "ath.tes@proton.me",
+      to: "cdo-multiservices@hotmail.com",
       subject: `Nouvelle demande de contact - ${firstName} ${lastName}`,
       html: contactRequestTemplate({
         firstName,
