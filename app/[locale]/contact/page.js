@@ -27,7 +27,7 @@ export default function ContactPage() {
       title: t("phoneTitle"),
       values: [
         { label: "+41 76 623 61 81", href: "tel:+41766236181" },
-        { label: "+41 76 669 20 59", href: "tel:+41766692059" },
+        { label: "+41 76 609 20 59", href: "tel:+41766092059" },
       ],
     },
     {

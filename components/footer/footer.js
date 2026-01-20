@@ -103,7 +103,7 @@ export default function Footer() {
                 alt="SVG Icon - CDO Multiservices"
               />
               <div className={styles.phoneContainer}>
-                <Link href="tel:+41766692059">+41 76 669 20 59</Link>
+                <Link href="tel:+41766092059">+41 76 609 20 59</Link>
                 <Link href="tel:+41766236181 ">+41 76 623 61 81 </Link>
               </div>
             </li>

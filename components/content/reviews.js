@@ -4,6 +4,7 @@ import Image from "next/image";
 import { Link } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
 import { useEffect, useState } from "react";
+import { motion } from "framer-motion";
 
 import ArrowIcon from "@/public/icons/arrow_right.png";
 
@@ -34,19 +35,44 @@ export default function Reviews() {
 
   return (
     <section className={styles.reviewsContainer}>
-      <h2>{t("title")}</h2>
-      <p>{t("subtitle")}</p>
+      <motion.h2
+        initial={{ opacity: 0, y: 100 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.6 }}
+        viewport={{ once: true, amount: 0.2 }}
+      >
+        {t("title")}
+      </motion.h2>
+      <motion.p
+        initial={{ opacity: 0, y: 100 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.6 }}
+        viewport={{ once: true, amount: 0.2 }}
+      >
+        {t("subtitle")}
+      </motion.p>
 
       {reviews.length === 0 ? (
-        <p>Aucun avis client pour le moment.</p>
+        <motion.p
+          initial={{ opacity: 0, y: 100 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, delay: 0.2 }}
+          viewport={{ once: true, amount: 0.2 }}
+        >
+          Aucun avis client pour le moment.
+        </motion.p>
       ) : (
         <div className={styles.sliderWrapper}>
           <ul className={styles.reviewsList}>
             {reviews.map((r) => (
-              <li
+              <motion.li
                 key={r.id}
                 className={styles.review}
                 onClick={() => openModal(r)}
+                initial={{ opacity: 0, x: -100 }}
+                whileInView={{ opacity: 1, x: 0 }}
+                transition={{ duration: 0.6 }}
+                viewport={{ once: true, amount: 0.2 }}
               >
                 <div>
                   <strong>{r.author}</strong> —{" "}
@@ -58,7 +84,7 @@ export default function Reviews() {
                 </div>
 
                 <p>{r.content_fr || r.content_en || r.content_pt}</p>
-              </li>
+              </motion.li>
             ))}
           </ul>
         </div>
@@ -102,10 +128,17 @@ export default function Reviews() {
         </div>
       )}
 
-      <Link href="/reviews" className={styles.button}>
+      <motion.a
+        href="/reviews"
+        className={styles.button}
+        initial={{ opacity: 0, y: 100 }}
+        whileInView={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.6 }}
+        viewport={{ once: true, amount: 0.2 }}
+      >
         <button>{t("button")}</button>
         <Image src={ArrowIcon} width={20} height={20} alt="Arrow right" />
-      </Link>
+      </motion.a>
     </section>
   );
 }

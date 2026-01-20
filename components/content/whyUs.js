@@ -1,6 +1,9 @@
+"use client";
+
 import styles from "@/styles/content/whyUs.module.css";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
+import { motion } from "framer-motion";
 
 import QualityIcon from "@/public/icons/check.png";
 
@@ -28,11 +31,25 @@ export default function WhyUs() {
 
   return (
     <section className={styles.whyUsContainer}>
-      <h2>{t("h2")}</h2>
+      <motion.h2
+        initial={{ opacity: 0, y: 100, scale: 0 }}
+        whileInView={{ opacity: 1, y: 0, scale: 1 }}
+        transition={{ duration: 0.6 }}
+        viewport={{ once: true, amount: 0.2 }}
+      >
+        {t("h2")}
+      </motion.h2>
 
       <ul className={styles.featuresList}>
         {features.map((f) => (
-          <li key={f.id} className={styles.featureItem}>
+          <motion.li
+            key={f.id}
+            className={styles.featureItem}
+            initial={{ opacity: 0, y: 100, scale: 0 }}
+            whileInView={{ opacity: 1, y: 0, scale: 1 }}
+            transition={{ duration: 0.6 }}
+            viewport={{ once: true, amount: 0.2 }}
+          >
             <div className={styles.imgContainer}>
               <Image
                 src={f.icon}
@@ -46,7 +63,7 @@ export default function WhyUs() {
               <h3>{t(`items.${f.id}.title`)}</h3>
               <p>{t(`items.${f.id}.description`)}</p>
             </div>
-          </li>
+          </motion.li>
         ))}
       </ul>
     </section>
