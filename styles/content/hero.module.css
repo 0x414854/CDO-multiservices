@@ -255,7 +255,10 @@
   }
 }
 @media (min-width: 1440px) {
+  .heroContainer {
+    height: 95vh;
+  }
   .scrollDown {
-    margin-top: 5rem;
+    margin: 5rem auto 2rem auto;
   }
 }
