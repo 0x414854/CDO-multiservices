@@ -12,9 +12,9 @@ import Header from "@/components/header/header";
 import Footer from "@/components/footer/footer";
 
 export const metadata = {
-  title: "CDO Multiservices", // TODO: Change this
+  title: "CDO Multiservices - Nettoayge professionnel", // TODO: Change this
   description:
-    "Entreprise de nettoyage à Genève et en Suisse. CDO Multiservices propose des services professionnels pour particuliers et entreprises. Devis gratuit.", // TODO: Change this
+    "Entreprise de nettoyage professionnel à Genève et en Suisse. CDO Multiservices propose des services professionnels pour particuliers et entreprises. Devis gratuit.", // TODO: Change this
   icons: [{ url: "/favicon.ico", sizes: "48x48", type: "image/x-icon" }],
   keywords: [
     // TODO: Change All keywords
